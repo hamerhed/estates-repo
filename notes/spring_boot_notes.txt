@@ -1,0 +1,7 @@
+rozszerzanie jpa repositories
+
+1. Interfejs rozszerzajacy <CustomInterface> moze miec dowolna nazwe
+2. Klasa implementujaca MUSI miec nazwe <interfejs_bazowy>+Impl.
+
+Ciekawe ze w dokumentacji i 99% tutoriali pisza ze to ma byc <CustomInterface>+Impl 
+
