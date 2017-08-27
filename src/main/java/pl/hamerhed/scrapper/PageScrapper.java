@@ -6,7 +6,9 @@ import java.net.URL;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.springframework.stereotype.Service;
 
+@Service
 public class PageScrapper {
 	private Document doc;
 	
