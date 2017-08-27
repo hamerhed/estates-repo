@@ -6,32 +6,67 @@ import java.util.Iterator;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import org.springframework.stereotype.Service;
 
 import pl.hamerhed.domain.Building;
 import pl.hamerhed.domain.Estate;
+import pl.hamerhed.domain.ExtractionSource;
+import pl.hamerhed.domain.ExtractionSourceType;
+import pl.hamerhed.domain.IExtractionSource;
 
 
-
-public class EstateItemExtractor {
+@Service
+public class GratkaplItemExtractorImpl extends AbstractItemExtractor<Estate, ExtractionSource>
+									implements ItemExtractor<Estate, ExtractionSource>{
 	private static final int BUILDING_TYPE = 0;
 	private static final int BUILDING_FLOORS = 1;
 	private static final int BUILDING_MATERIAL = 2;
 	private static final int BUILDING_YEAR = 3;
-	private Document doc;
 	
-	private Estate flatItem;
 	
-	public EstateItemExtractor(Document root, Estate flat){
-		doc = root;
-		flatItem = flat;
+	public GratkaplItemExtractorImpl(){}
+	
+	@Override
+	public void parse(String url, Estate flatItem) throws Exception {
+		//System.out.println("flat_item=" + doc);
+		Document doc = getDocumentFromLink(url);
+		System.out.println("item doc=" +doc.outerHtml());
+		extractionSources = createExtractionSource(doc.outerHtml(), url, ExtractionSourceType.OFFERS_ITEM_SOURCE);
+		
+				Elements flatInfo = doc.select("div[class=mieszkanie]").first().select("li");
+				//System.out.println("flat-info=" + flatInfo);
+				extractFlatInformation(flatItem, flatInfo);
+				
+				Elements buildingInfo = doc.select("div[class=budynek]").first().select("li");
+				//System.out.println("flat-info=" + buildingInfo);
+				Building building = extractBuildingInformation(buildingInfo);
+				flatItem.setBuilding(building);
+				
+				if(doc.select("div[class=garaz]").size() > 0){
+					org.jsoup.nodes.Element carparkInfo = doc.select("div[class=garaz]").first().select("p").first();
+					flatItem.setCarPlace(carparkInfo.text().trim());	
+				}
+				
+				if(doc.select("div[class=dodatkowezalety]").size() > 0) {
+					System.out.println("zalety=" + doc.select("div[class=dodatkowezalety]"));
+					org.jsoup.nodes.Element additionalAssetsInfo = doc.select("div[class=dodatkowezalety]").first().select("p").first();
+					//	System.out.println("flat-info=" + additionalAssetsInfo);
+					flatItem.setFlatAdditions(additionalAssetsInfo.text().trim());
+				}
+				if(doc.select("div[class=opis]").size() > 0){
+					org.jsoup.nodes.Element descriptionInfo = doc.select("div[class=opis]").first().select("p").first();
+				//	System.out.println("flat-info=" + descriptionInfo.text());
+					flatItem.setFlatDescription(descriptionInfo.text().trim());
+				}
+		
 	}
 	
-	public void extract(){
+	/*public void extract(Document doc, Estate flatItem){
 		//System.out.println("flat_item=" + doc);
 		
 		Elements flatInfo = doc.select("div[class=mieszkanie]").first().select("li");
 		//System.out.println("flat-info=" + flatInfo);
-		extractFlatInformation(flatInfo);
+		extractFlatInformation(flatItem, flatInfo);
 		
 		Elements buildingInfo = doc.select("div[class=budynek]").first().select("li");
 		//System.out.println("flat-info=" + buildingInfo);
@@ -54,7 +89,7 @@ public class EstateItemExtractor {
 		//	System.out.println("flat-info=" + descriptionInfo.text());
 			flatItem.setFlatDescription(descriptionInfo.text().trim());
 		}
-	}
+	}*/
 
 	private Building extractBuildingInformation(Elements buildingInfo) {
 		int i = 0;
@@ -87,7 +122,7 @@ public class EstateItemExtractor {
 		return building;
 	}
 
-	private void extractFlatInformation(Elements flatInfo) {
+	private void extractFlatInformation(Estate flatItem, Elements flatInfo) {
 		//System.out.println("flatinfo=" + flatInfo);
 		Iterator<Element> flatIter = flatInfo.listIterator();
 		while(flatIter.hasNext() ){
@@ -145,9 +180,13 @@ public class EstateItemExtractor {
 				case "usytuowanie wzgl. stron świata":
 					flatItem.setNorthOrientation(text.trim());
 					break;
+				case "wykończenie":
+					break;
 				default:
 					throw new IllegalStateException("Nie ma takiego parametru " + key);
 			}
 		}
 	}
+
+	
 }

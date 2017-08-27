@@ -5,6 +5,7 @@ import java.net.URLClassLoader;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.Optional;
+import java.util.stream.StreamSupport;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -16,7 +17,10 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 
 import pl.hamerhed.domain.Advertisment;
+import pl.hamerhed.domain.ExtractionSource;
+import pl.hamerhed.domain.IExtractionSource;
 import pl.hamerhed.scrapper.ScrapRunner;
+import pl.hamerhed.scrapper.persistance.ExtractionSourceRepository;
 
 
 @SpringBootApplication //equivalent to  @Configuration, @EnableAutoConfiguration and @ComponentScan
@@ -30,6 +34,9 @@ public class Application implements CommandLineRunner {
 	@Autowired
 	private pl.hamerhed.scrapper.controller.AdvertismentSaver advertismentSaver;
 	
+	@Autowired
+	private ExtractionSourceRepository extractionSourceRepository;
+		
 	@Autowired
 	private ScrapRunner scrapRunner;
 	
@@ -57,9 +64,14 @@ public class Application implements CommandLineRunner {
 	}
 	
 	//wstepnie ustawione na 5 minut in miliseconds
-	@Scheduled(fixedRate=600000)
+	//@Scheduled(cron="30 22 * * * *")
 	private void run() throws Exception {
-
+		System.out.println("moja aplikacja dziala");
+		boolean flag = false;
+		if(flag){
+			return;
+		}
+		//StreamSupport.stream(extractionSourceRepository.findAll().spliterator(), false).forEach(x -> {System.out.println("wypisz content"); System.out.println(x.getContent().substring(0 ,100));});
 		scrapRunner.parse();
 		
 		Collection<Advertisment> items = scrapRunner.getItems();
@@ -67,11 +79,15 @@ public class Application implements CommandLineRunner {
 		
 		Collection<Advertisment> processedVersions = advertismentSaver.processVersions(items);
 		System.out.println("po przetworzeniu " + processedVersions.size());
+		
+		Collection<ExtractionSource> extractionSources = scrapRunner.getExtractionSources();
+		
+		extractionSourceRepository.save(extractionSources);
+		
 		Optional<Iterable<Advertisment>> savedItems = advertismentSaver.save(Optional.ofNullable(processedVersions));
 		System.out.println("po zapisie ");
-		if(processedVersions.size() == countSavedItems(savedItems.get())){
-			System.out.println("Zapisano do bazy " + processedVersions.size() + "elementów");
-		}
+		System.out.println("wyekstrachowano " + processedVersions.size() + " Zapisano do bazy " + countSavedItems(savedItems.get()) + "elementów");
+		
 		//saveTestData();
 	}
 	

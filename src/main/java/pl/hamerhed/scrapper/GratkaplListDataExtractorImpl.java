@@ -12,12 +12,18 @@ import java.util.regex.Pattern;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import org.springframework.stereotype.Service;
 
 import pl.hamerhed.domain.Address;
 import pl.hamerhed.domain.Advertisment;
 import pl.hamerhed.domain.Estate;
+import pl.hamerhed.domain.ExtractionSource;
+import pl.hamerhed.domain.ExtractionSourceType;
+import pl.hamerhed.domain.IExtractionSource;
 
-public class RealEstatesListExtractorImpl{
+@Service
+public class GratkaplListDataExtractorImpl extends AbstractListDataExtractor<Advertisment> 
+										implements ListDataExtractor<Advertisment, ExtractionSource>{
 	private static final int VIEWS_POSITION = 3;
 
 	private static final int MODIFICATION_DATE_POSITION = 2;
@@ -32,20 +38,56 @@ public class RealEstatesListExtractorImpl{
 	
 	private Integer pages;
 	
-	public RealEstatesListExtractorImpl(Document document){
+	public GratkaplListDataExtractorImpl(){
+		estates = new ArrayList<>();
+	}
+	
+	protected GratkaplListDataExtractorImpl(Document document){
 		this.doc = document;
 		estates = new ArrayList<>();
 	}
 	
-	public void parse(){
+	public ExtractionSource getExtractedSource(){
+		return extractionSources;
+	}
+	
+/*	public void parse(Document document){
+		this.doc = document;
 		extractPagesNumber();
 		
 		extractEstates();
+	}*/
+
+	protected void init(){
+		estates = new ArrayList<>();
+		pages = null;
+	}
+	@Override
+	public void parse(String link) throws Exception {
+		init();
+		this.doc = getDocumentFromLink(link);
+		System.out.println(doc.outerHtml());
+		this.extractionSources = createExtractionSource(doc.outerHtml(), link, ExtractionSourceType.OFFERS_ITEMS_LIST_SOURCE);
+		extractPagesNumber();
+		
+		extractEstates();
+		
 	}
 
-	public Collection<Advertisment> getEstates(){
+	@Override
+	public Integer getPagesNumber() {
+		return pages;
+	}
+
+	@Override
+	public Collection<Advertisment> getItems() {
 		return estates;
 	}
+	
+/*	@Deprecated
+	public Collection<Advertisment> getEstates(){
+		return estates;
+	}*/
 	
 	private void extractEstates() {
 		if(doc == null) return;
@@ -79,7 +121,7 @@ public class RealEstatesListExtractorImpl{
 	}
 	
 	private Advertisment parseAdvertisment(Element root){
-		System.out.println("elem " + root);
+		//System.out.println("elem " + root);
 		System.out.println("id " + getId(root));
 		
 		Advertisment ad = new Advertisment();
@@ -175,10 +217,16 @@ public class RealEstatesListExtractorImpl{
 	
 	private void parseTypeAndAddress(String data, Estate estate){
 		String[] tab = data.split(" ");
+		int offset = 0;
 		String type = tab[0];
-		String city = tab[1];
+		if(tab[0].toLowerCase().equals("nowe")){
+			 type = type + " " + tab[1];
+			offset = 1;
+		}
 		
-		String[] temp = Arrays.copyOfRange(tab, 2, tab.length);
+		String city = tab[1+offset];
+		
+		String[] temp = Arrays.copyOfRange(tab, 2+offset, tab.length);
 		String tempStr = String.join(" ", temp);
 		
 		
@@ -195,7 +243,7 @@ public class RealEstatesListExtractorImpl{
 		System.out.println("xxxxxxxxxxx to  moj id " + estate.getId());
 		
 		Address address = new Address();
-		address.setCity(city.trim());
+		address.setCity(city.replaceAll(",", "").trim());
 		address.setVoivodine("wielkopolskie");
 		address.setDistrict(district.trim());
 		address.setStreet(street.trim());
@@ -226,7 +274,7 @@ public class RealEstatesListExtractorImpl{
 	private String getListValue(Elements list, int index){
 		String text = list.get(index).text();
 		String[] tab = text.split(":");
-		return tab[1];
+		return tab[1].trim();
 	}
 	
 	private String getMarket(Elements list){
@@ -277,6 +325,14 @@ public class RealEstatesListExtractorImpl{
 			}
 			int offset = 1;
 			if(tab.length == 5){
+				if(tab[tab.length-1].contains("dopłata")){
+					//do nothing
+				} else {
+					buildYear = tab[2].replaceAll("\\D+", "").trim();
+					System.out.println("build year =" + buildYear);
+					offset = 0;
+				}
+			} else if(tab.length == 6){
 				buildYear = tab[2].replaceAll("\\D+", "").trim();
 				System.out.println("build year =" + buildYear);
 				offset = 0;

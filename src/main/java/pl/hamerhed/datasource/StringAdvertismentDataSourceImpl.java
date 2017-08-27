@@ -7,22 +7,24 @@ import java.util.Iterator;
 
 import org.springframework.stereotype.Service;
 
+import pl.hamerhed.domain.AddressLink;
+
 @Service
-class StringAdvertismentDataSourceImpl implements AdvertismentsDataSource<String> {
-	private Collection<String> internalData;
+class StringAdvertismentDataSourceImpl implements AdvertismentsDataSource<AddressLink> {
+	private Collection<AddressLink> internalData;
 
 	public StringAdvertismentDataSourceImpl() {
-			internalData = Arrays.asList("http://dom.gratka.pl/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,60,80,3,6,3,dz,mo,md,lpo,ld,pd.html");
+			internalData = Arrays.asList(new AddressLink("http://dom.gratka.pl/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,40,:pageIndex:,60,80,3,6,3,dz,li,s,mo,md,lpo,ld,pd.html", null, new String[]{":pageIndex:"}));
 	}
 	
 	
 	@Override
-	public Iterator<String> iterator() {
+	public Iterator<AddressLink> iterator() {
 		return Collections.unmodifiableCollection(internalData).iterator();
 	}
 
 	@Override
-	public Collection<String> getSources() {
+	public Collection<AddressLink> getSources() {
 		return Collections.unmodifiableCollection(internalData);
 	}
 	
