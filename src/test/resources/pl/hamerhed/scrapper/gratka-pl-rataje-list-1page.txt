@@ -1,0 +1,2394 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <script>
+    dataLayer = [{
+                        'id_ogloszen' : '73027439,72869933,72852673,72643627,72595553,72574581,72525789,70486764,70011719,65669212',
+                                'typ_strony' : 'lista-ogloszen',
+                                'kategoria_glowna' : 'Dom',
+                                'kategoria_pelna' : 'Dom - Mieszkania sprzedam (rynek dowolny)',
+                                'region' : 'wielkopolskie',
+                                'miejscowosc' : 'Poznań',
+                                'dzielnica' : 'rataje',
+                    }];
+</script>
+<script>
+    (function(w,d,s,l,i){
+        w[l]=w[l]||[];
+        w[l].push({ 'gtm.start': new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),
+                dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;
+        j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+        f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P4KLFC');
+
+   function gtmPush(tag) {
+        dataLayer.push({
+            'event':'GAEvent',
+            'event-action':'push',
+            'event-label':  tag
+        });
+    }
+</script>
+    <meta charset="utf-8" >
+    <title>Mieszkania na sprzedaż wielkopolskie Poznań Rataje</title>
+<meta name="Description" content="Mieszkania na sprzedaż Poznań Rataje. Mieszkania z rynku pierwotnego oraz wtórnego. Aktualne oferty sprzedaży mieszkań miasto Poznań w dzielnicy Rataje - Gratka.pl">
+<meta name="Keywords" content="mieszkania na sprzedaż, mieszkania na sprzedaż poznań, mieszkania na sprzedaż poznań rataje">
+<link rel="canonical" href="http://dom.gratka.pl/mieszkania/poznan/rataje/">
+<link href="https://plus.google.com/105894258703300359186/" rel="publisher" />
+<meta name="msvalidate.01" content="5939710F76EFCC002CC6B9F638582CA1">
+<meta property="fb:app_id" content="281111141898927" >
+
+    <meta name="robots" content="index, follow" >
+<meta name="Author" content="Polska Press Sp. z o.o." >
+<meta name="dcterms.rightsHolder" content="Polska Press Sp. z o.o. - All Rights Reserved">
+<meta name="dcterms.dateCopyrighted" content="2017">
+<meta name="google-site-verification" content="8xCn-U3_e4alWb6D-EOlpKnYVbTHmmmSHhPaLblkSTk" >
+<meta name="SKYPE_TOOLBAR" CONTENT="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+  <link rel="alternate" type="application/rss+xml" title="Gratka.pl" href="http://dom.gratka.pl/mieszkania-sprzedam/lista/rss/wielkopolskie,poznan,rataje,40,60,80,3,6,1,1,dz,li,mo,md,lpo,ld,po,pd.html">
+<link rel="dns-prefetch" href="//s-gd.ppstatic.pl">
+<link rel="dns-prefetch" href="//d-gd.ppstatic.pl">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//www.googleadservices.com">
+<link rel="dns-prefetch" href="//www6.smartadserver.com">
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//emisja.pp.ns.adkontekst.pl">
+<link rel="dns-prefetch" href="//gratkapl.adocean.pl">
+
+<link href="https://s-gd.ppstatic.pl/s/img/favicon.ico?23092015" rel="shortcut icon">
+<link rel="apple-touch-icon" href="https://s-gd.ppstatic.pl/g/rwd_dom/domgratka.png?w=1">
+<meta name="apple-mobile-web-app-title" content="Gratka.pl">
+<meta name="apple-itunes-app" content="app-id=927931156">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no">
+
+<meta name="application-name" content="Gratka.pl">
+<meta name="msapplication-tooltip" content="Ogłoszenia w internecie">
+<meta name="msapplication-starturl" content="/">
+<meta name="msapplication-window" content="width=1024;height=768">
+<meta name="msapplication-navbutton-color" content="#C64C10">
+<meta name="msapplication-task" content="name=Zarejestruj się; action-uri=https://www.gratka.pl/konto/rejestracja/?url_powrotu=http://dom.gratka.pl/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,60,80,3,6,1,1,dz,mo,md,lpo,ld,po,pd.html?&amp;serwis_kod=GRATKA_DOM; icon-uri=https://s-gd.ppstatic.pl/s/img/favicon_ie9/favicon.ico?23092015">
+<meta name="msapplication-task" content="name=Zaloguj się; action-uri=https://www.gratka.pl/konto/logowanie/?url_powrotu=http://dom.gratka.pl/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,60,80,3,6,1,1,dz,mo,md,lpo,ld,po,pd.html?; icon-uri=https://s-gd.ppstatic.pl/s/img/favicon_ie9/favicon.ico?23092015">
+<meta name="msapplication-task" content="name=Dodaj ogłoszenie; action-uri=/dodawanie_ogloszenia/; icon-uri=https://s-gd.ppstatic.pl/s/img/favicon_ie9/favicon.ico?23092015">
+<meta name="msapplication-task" content="name=Moje ogłoszenia; action-uri=/moje_ogloszenia/aktywne/; icon-uri=https://s-gd.ppstatic.pl/s/img/favicon_ie9/favicon.ico?23092015">
+<meta name="msapplication-task" content="name=Konto; action-uri=https://www.gratka.pl/konto/moje-dane/dane-ogolne/; icon-uri=https://s-gd.ppstatic.pl/s/img/favicon_ie9/favicon.ico?23092015">
+    <link rel="stylesheet" href="https://s-gd.ppstatic.pl/s/css/dom/foundation.css?35ee8913997848" type="text/css" >
+<link rel="stylesheet" href="https://s-gd.ppstatic.pl/s/css/dom/rwd_dom.css?bd6c8913997848" type="text/css" >
+<link rel="stylesheet" href="https://s-gd.ppstatic.pl/s/css/dom/rwd_lista.css?9942bd13997848" type="text/css" >
+<link rel="stylesheet" href="https://s-gd.ppstatic.pl/o/css/cookies.css?261f9913997848" type="text/css" >
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/js/jquery/1.7.2/jquery.min.js?172"></script>
+<script type="text/javascript">var czyMobilne = !1, czyTablet = !1;</script><script type="text/javascript">if(!GR) { var GR = function() { return; }; }var oG_OSA = {"serwis":"gd", "sUrl":"https://s-gd.ppstatic.pl","debug":false, "iframeReklama":"http://www.gratka.pl/reklama/", "tracking": [], "vat":{"stawka":0.23,"procent":23,"brutto":1.23}, "trybReklamy": "new", "czyBot": false, "adOceanEmiter":"ad.adocean.pl", "adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77", "kodowanie":"utf-8", "wersja_serwisu":"13997848", "requestId":"2F1CEADC11A720FC", "typAnalytics":"GA"};</script>
+<script type="text/javascript">if (GR && !GR.DOM) {jQuery=jQuery.noConflict(true);}</script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/js/osnowa.js?9cdad313997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/js/pp-ads/desktop.js?55bfdb13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/js/pp-ads/ads.js?1b93c013997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/js/pp-ads/polskapress.js?e84b0913997848"></script>
+<script type="text/javascript">var INSERT_AD_CONFIG = {"GG_URL":"www.gratka.pl","BRAND_ID":1,"DEBUG":false};
+</script>
+<script type="text/javascript" src="//ad.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">var adMiejsce = {"gora1":"adoceanadyjlsbihfyk","dol1":"adoceanadoinflndmuq","srodek1":"adoceanadtpmpjulfvj","srodek2":"adoceanadqaegnrfkme","srodek3":"adoceanadnblmqopolz","fakeAd":"adoceanadljemoknqel","fakeAdOgloszenia":"adoceanadxpmkmxjmfl","boxMapa":"adoceanadrhgphqjhzv","fakeAdMapa":"adoceanadzfiiejfsxr","link1Karta":"adoceanadsljpiskosa","link2Karta":"adoceanadpmqfmpetnv","link3Karta":"adoceanadynmrkwgqju","link1Galeria":"adoceanadlnflhjnlvz","link2Galeria":"adoceanadnohibrsohj","prawa1Galeria":"adoceanadxnkpopftdv","prawa1":"adoceanadmnhmpmohhu","prawa2":"adoceanadznosckimrp","prawa3":"adoceanadwofjgxrqbk","belka1Karta":"adoceanadxfisqvfozb","tekstowaKarta":"adoceanadkcctdmjtru","srodek4":"adoceanadwihmkngtmy","winieta":"adoceanadxcjjhjdilt","link1Lista":"adoceanadmalqimjudi"};
+
+  var adO = {"keys":["poznan","rataje","mieszkania,sprzedaz,lista","rynek_ujednolicony"],"vars":{"waluta":"1","powierzchniaod":"60","powierzchniado":"80","region":15},"kodMaster":"zrhVV1ZwnWtXCcWGgg5M.slBHxSQd681so4EithE6sb.P7","adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"};
+
+  var hasFlash = (
+    (navigator.plugins !== "undefined" && typeof navigator.plugins["Shockwave Flash"] === "object")
+    || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) !== false)
+  );
+
+  if (adO.hasOwnProperty('keys')) {
+    if (hasFlash) {
+      adO.keys.push('flash');
+    }
+
+      }
+
+  
+</script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/js/urlmaildetect.js?2ce65e13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/cgr/jquery.dom.common.js?26552e13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/ulubione.js?66c36013997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/seo_boks.js?71e2fd13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/zakladki_kontakt.js?c4051213997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/menu_mobilne.js?f1fb5113997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/przypinanie_witryny.js?3added13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/jquery.visible.min.js?6e304a13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/autopromocja.js?72a0e513997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/jquery.lazy_dyn.js?e15a9813997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/js/geolokalizacja.js?21c6fa13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/jquerytools/jquery.lazyload.min.js?82119c13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/mapa_googla.js?55bc6013997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/powiadamiacz.js?35536013997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/o/js/cgr/track.js?b57ede13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/foundation/custom.modernizr.js?9f855c13997848"></script>
+<script type="text/javascript" src="https://s-gd.ppstatic.pl/p/js/foundation/foundation.min.js?9d623b13997848"></script>
+
+    <script src="https://s-gd.ppstatic.pl/o/js/gemius/g.ad.adserver.adsrv/reklama.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    var gemius_identifier = 'pxaaCLM9v0L5ThIUBeC7b8eCj1hwqgMsUxCToWIrAfz.27';
+    var gemius_extraparameters = ["typ_strony=lista-ogloszen","kat_glowna=Dom","kat_pelna=Dom - Mieszkania sprzedam (rynek dowolny)","autor=","data_publikacji=","tytul=","typ_autora=","wojewodztwo=wielkopolskie","miasto=Pozna\u0144","liczba_zdjec=","l_pkt_wyr=","id_inwestycji=","dzielnica=rataje","wspolrzedne_mapa="];
+    var gemius_slownik = {"W_ADBLOCK":"adblock","ADBLOCK_ON":"adblock-on","ADBLOCK_OFF":"adblock-off","W_HITFLAG":"hitflag","W_TYP_STRONY":"typ_strony","W_ZDARZENIE":"akcja","ZDARZENIE_DODAJ_OGLOSZENIE":"dodaj-ogloszenie","ZDARZENIE_FORMULARZ_WYSLIJ":"formularz-wyslij","ZDARZENIE_FORMULARZ_WYSLIJ_WARSTWA":"formularz-wyslij-warstwa","ZDARZENIE_FORMULARZ_SKONTAKTUJ_SIE":"formularz-skontaktuj-sie","ZDARZENIE_FORMULARZ_SKONTAKTUJ_SIE_WARSTWA":"formularz-skontaktuj-sie-warstwa","ZDARZENIE_FORMULARZ_NAPISZ_WIADOMOSC":"formularz-napisz-wiadomosc","ZDARZENIE_FORMULARZ_ODPOWIEDZ_DOL":"formularz-odpowiedz-dol","ZDARZENIE_FORMULARZ_ODPOWIEDZ_GORA":"formularz-odpowiedz-gora","ZDARZENIE_POKAZ_TELEFON_GORA":"pokaz-telefon-gora","ZDARZENIE_POKAZ_TELEFON_WARSTWA":"pokaz-telefon-warstwa","ZDARZENIE_POKAZ_TELEFON_DOL_SZCZEGOLY":"pokaz-telefon-dol-szczegoly","ZDARZENIE_POKAZ_TELEFON_DOL_KONTAKT":"pokaz-telefon-dol-kontakt","ZDARZENIE_POKAZ_TELEFON_GALERIA":"pokaz-telefon-galeria","ZDARZENIE_POKAZ_TELEFON_LISTING":"pokaz-telefon-listing","ZDARZENIE_POKAZ_TELEFON_PARTNER":"pokaz-telefon-partner","ZDARZENIE_POKAZ_EMAIL_DOL_SZCZEGOLY":"pokaz-email-dol-szczegoly","ZDARZENIE_POKAZ_KONTAKT_DOL_SZCZEGOLY":"pokaz-kontakt-dol-szczegoly","ZDARZENIE_POKAZ_KONTAKT_DOL_KONTAKT":"pokaz-kontakt-dol-kontakt","ZDARZENIE_APLIKUJ_DOL":"aplikuj-dol","ZDARZENIE_APLIKUJ_GORA":"aplikuj-gora","ZDARZENIE_APLIKUJ_SZABLON":"aplikuj-szablon","ZDARZENIE_APLIKUJ_ZEWNETRZNY_DOL":"aplikuj-zewnetrzny-dol","ZDARZENIE_APLIKUJ_ZEWNETRZNY_GORA":"aplikuj-zewnetrzny-gora","ZDARZENIE_PRZELADOWANIE_MAPY":"przeladowanie-mapy"};
+    var aofon = typeof gemius_aofon !== 'undefined' && gemius_aofon ? gemius_slownik.ADBLOCK_OFF : gemius_slownik.ADBLOCK_ON;
+    gemius_extraparameters.push(gemius_slownik.W_ADBLOCK+'=' + aofon);
+    gemius_extraparameters.push(gemius_slownik.W_HITFLAG+'=1');
+
+    function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+    gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+    (function(d,t) {try{ var s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':'');
+    var add=function(ohost, clb){ var gt=d.createElement(t),h=(ohost?"sylaba.net/sweqevub.js":"mreg.hit.gemius.pl/xgemius.js");
+    gt.setAttribute('async','async'); gt.setAttribute('defer','defer'); gt.src=l+'://'+h; s.parentNode.insertBefore(gt,s);
+    if (clb && gt.addEventListener) gt.addEventListener('error', clb, false); else if (clb && gt.attachEvent) gt.attachEvent('onerror', clb); };
+    add(0, function(){gemius_extraparameters.forEach(function(param,i){if(param.indexOf(gemius_slownik.W_HITFLAG+'=')==0){
+    gemius_extraparameters[i]=gemius_slownik.W_HITFLAG+'=2'}});add(1);});} catch (e) {}})(document,'script');
+    //--><!]]>
+    function gemiusPushAction(params, merge_params, gemius_id) {
+        merge_params = typeof merge_params !== 'undefined' ? merge_params : true;
+        gemius_id = typeof gemius_id !== 'undefined' ? gemius_id : '';
+        params = merge_params ? gemius_extraparameters.concat(params) : params;
+        gemius_event.apply(this, ['_action_', gemius_id].concat(params));
+    }
+    function gemiusPushView(params, merge_params, gemius_id) {
+        merge_params = typeof merge_params !== 'undefined' ? merge_params : true;
+        gemius_id = typeof gemius_id !== 'undefined' ? gemius_id : '';
+        params = merge_params ? gemius_extraparameters.concat(params) : params;
+        gemius_event.apply(this, ['_view_', gemius_id].concat(params));
+    }
+    
+    function gemiusEventZdjeciePokaz() {
+      var params = gemius_extraparameters.slice();
+      params.forEach(function(param, i) {
+        if (param.indexOf(gemius_slownik.W_TYP_STRONY+'=') == 0) {
+          params[i] = gemius_slownik.W_TYP_STRONY+'=karta-ogloszenia-galeria';
+        }
+      });
+      gemiusPushView(params, false);
+    }
+    function gemiusEventAkcja(akcja) {
+      gemiusPushAction([gemius_slownik.W_ZDARZENIE+'='+akcja]);
+    }
+    (function($) {
+      $(function() {
+        var rodzajEventu = $('html').hasClass('touch') ? 'touchend click' : 'click',
+            elementy = '[data-gemius^=dodaj-], [data-gemius^=formularz-], [data-gemius^=pokaz-], [data-gemius^=aplikuj-]';
+        $('body').on(rodzajEventu, elementy, function () {
+          gemiusEventAkcja($(this).data('gemius'));
+        });
+      });
+    })(jQuery);
+
+    
+</script>
+  </head>
+  <body>
+    <div class="wrapper">
+        <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P4KLFC" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+                <script type="text/javascript">
+          jQuery(function(){
+            jQuery(document).foundation();
+          });
+        </script>
+                    
+  <div class="row rekOgraniczenie">
+    <div class="small-12 columns textC nieSkacz">
+      <div class="tab">
+        <div class="adBillboard">
+          <script type="text/javascript">
+            var konf = {"name":"gora1","hideWhenEmpty":false},
+                cscr = document.currentScript || (function() {
+                  var scrs = document.getElementsByTagName('script');
+                  return scrs[scrs.length - 1];
+                })();
+            jQuery.fn.insertAd({ placement: konf }, cscr);
+          </script>
+        </div>
+        <script><!--
+(function(){
+  try{
+    var adrequest = new XMLHttpRequest();
+    var hitrequest = new XMLHttpRequest();
+ 
+    adrequest.open("GET", "//myao.adocean.pl/_" + new Date().getTime() + "/ad.js?id=nJpB5gBsvEYqjNEhFhRQd_sR3A.T7LA9bTdPlUvbjW7.47", true);
+    adrequest.withCredentials = true;
+    adrequest.send(null);
+  
+    hitrequest.open("GET", "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.js?l=71&id=p301ZHcRQYCaGuv9TDX3pvUI.D5REaSbzAnb3DaDtQL.f7&et=view", true);
+    hitrequest.withCredentials = true;
+    hitrequest.send(null);
+  } catch (e) {}
+})();
+//--></script>
+
+      </div>
+          
+<a href="http://dom.gratka.pl/inwestycje/?utm_source=dom.gratka.pl&amp;utm_campaign=autopromocja-rpierwotny&amp;utm_medium=750x200" title="Inwestycje deweloperskie" class="schowaj" data-tracker="/reklama/autopromocja/lista-ogloszen">
+  <img src="https://s-gd.ppstatic.pl/g/rwd_dom/autopromocja_nowe_mieszkania.png?20150922" alt="Inwestycje deweloperskie">
+</a>
+
+    </div>
+  </div><div class="row">
+  <div class="columns hide-for-small">
+    
+    <ul id="menu-links">
+      <li>
+        <a class="active" href="http://www.gratka.pl">Ogłoszenia</a>
+      </li>
+      <li>
+        <a>Poradniki</a>
+        <ul class="eject tl">
+          <li><a href="http://www.gratka.pl/mieszkam/">Mieszkam</a></li>
+          <li><a href="http://www.motofakty.pl">Jeżdżę</a></li>
+          <li><a href="http://www.gratka.pl/pracuje/">Pracuję</a></li>
+        </ul>
+      </li>
+      <li>
+        <a>Dla partnerów</a>
+        <ul class="eject tl">
+          <li><a href="http://www.gratka.pl/nieruchomosci/oferta-dla-firm/">Deweloperzy, biura nieruchomości, instytucje</a></li>
+          <li><a href="http://moto.gratka.pl/katalog_firm/oferta/">Autokomisy, Sklepy z częściami</a></li>
+          <li><a href="http://praca.gratka.pl/pracodawca/">Pracodawcy, Agencje HR</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+  (function ($) {
+      wyslij_tracker = function(adres) {
+        gaLink = jQuery('<a href="#"></a>');
+        GR('oTrackEvents', [{elements: gaLink.toArray(), href: adres}]);
+        gaLink.click();
+      }
+      $('#menu-links a').click(function () {
+          var url = $(this).attr('href');
+          var kotwica = (url.indexOf("#") != -1) ? url.substring(url.indexOf('#')) : '';
+
+          switch (kotwica) {
+              case '#wyszukiwarka-glowna':
+                  if ($(kotwica).length) {
+                      wyslij_tracker('/menu-gora/ogloszenia/kotwica');
+                      $(this).attr('href', kotwica);
+                  } else {
+                      wyslij_tracker('/menu-gora/ogloszenia/przeklik');
+                      $(this).attr('href', 'http://dom.gratka.pl');
+                  }
+                  break;
+          }
+      });
+
+  })(jQuery);
+</script>
+
+
+<div id="header-main" class="row clearOver">
+  <div class="columns">
+          <h2>  <a class="logo" href="http://www.gratka.pl" title="Gratka.pl ogłoszenia nieruchomości, motoryzacja, praca i inne.">
+    <img src="https://s-gd.ppstatic.pl/s/img/gratka/logotypy/gratka_logo.svg" alt="Gratka.pl ogłoszenia nieruchomości, motoryzacja, praca i inne.">
+  </a>
+  <a class="logoKategoria" href="http://dom.gratka.pl" title="Nieruchomości w serwisie Gratka.pl" data-gtm="logo-dom">
+    <img src="https://s-gd.ppstatic.pl/s/img/gratka/logotypy/nieruchomosci.svg" alt="Nieruchomości w serwisie Gratka.pl">
+  </a>
+</h2>
+    
+    <div class="userTools">
+      <div>
+        <a href="http://www.gratka.pl/ulubione/" title="Zobacz swoje ulubione ogłoszenia" class="fav icon-ulubione_obrys" data-gtm="moje-konto-ulubione-oferty">Ulubione</a>
+
+        <div class="userAccount">
+          <span class="account icon-user" data-gtm="moje-konto-otworz-zamknij">Moja&nbsp;gratka</span>
+            <ul class="eject tl">
+    <li class="loginBox">
+      <h6>moja gratka</h6>
+      <a href="https://www.gratka.pl/konto/logowanie/?serwis_kod=GRATKA_DOM&amp;url_powrotu=http://dom.gratka.pl/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,60,80,3,6,1,1,dz,mo,md,lpo,ld,po,pd.html?" class="btn m">Zaloguj się na Gratka.pl</a>
+              <p class="logowanieFB">
+          <a rel="popup-width:650-height:400" href="https://www.gratka.pl/konto/oauth/autoryzacja/1,logowanie,facebook.html" class="linkloginFB icon-facebook">Zaloguj się przez Facebook</a>
+        </p>
+          </li>
+    <li class="registerBox">
+      <h6>nie masz jeszcze konta?</h6>
+      <p>Konto w serwisie <b>Gratka.pl</b> pozwoli Ci na stałe i za darmo:</p>
+      <ul>
+        <li><span>zarządzać ogłoszeniami</span></li>
+        <li><span>pamiętać ustawienia powiadomień e-mail</span></li>
+        <li><span>przeglądać ogłoszenia dodane do ulubionych</span></li>
+        <li><span>pamiętać Twoje dane</span></li>
+      </ul>
+      <a class="icon-rejestracja" href="https://www.gratka.pl/konto/rejestracja/?serwis_kod=GRATKA_DOM&amp;url_powrotu=http://dom.gratka.pl/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,60,80,3,6,1,1,dz,mo,md,lpo,ld,po,pd.html?" title="Nie masz jeszcze konta? Zarejestruj się!" data-gtm="moje-konto-rejestracja">Zarejestruj się</a>
+    </li>
+  </ul>
+
+        </div>
+                  <a class="add icon-dodaj tablet" href="http://www.gratka.pl/ogloszenia/dodaj.html" data-gtm="dodaj-ogloszenie" title="Dodaj ogłoszenie">Dodaj&nbsp;ogłoszenie</a>
+            <a class="btn l icon-dodaj desktop" href="http://www.gratka.pl/ogloszenia/dodaj.html" data-gtm="dodaj-ogloszenie">Dodaj ogłoszenie</a>
+              </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  (function ($) {
+    $(document).ready(function() {
+      var katalog = oG_OSA.naglowekOnClick || 'domyslny';
+      var tr = oG_OSA.tracking;
+      katalog = katalog + '/';
+      $('#naglowek a').each(function () {
+        if($(this).attr('id')) {
+          tr.push({ elements: jQuery(this), href: '/onclick/'+katalog+$(this).attr('id') });
+        }
+      });
+    });
+  })(jQuery);
+
+</script><script type="text/javascript"></script><script>jQuery(function($) {var pokazKonto = $('.userTools .account'),pokazKontoOpcje = pokazKonto.next('ul'),kontenerKonto = pokazKonto.parent('.userAccount'),rodzajEventu = $('html').hasClass('touch') ? 'touchend' : 'click';pokazKonto.on(rodzajEventu, function () {kontenerKonto.toggleClass('opened');pokazKontoOpcje.stop().fadeToggle(300);if (kontenerKonto.hasClass('opened')) {$(document).on(rodzajEventu, function(e) {if (!kontenerKonto.is(e.target) && kontenerKonto.has(e.target).length === 0) {pokazKontoOpcje.hide();kontenerKonto.removeClass('opened');$(this).unbind(e);}});}});});</script>
+
+
+<gratka-search :search-params='{"estate_location":"wielkopolskie, Pozna\u0144, Rataje","acreage_from":60,"acreage_to":80,"estate_region":15,"city":"Pozna\u0144","district":"Rataje","room_count_from":3,"floor_count_to":6,"floor_from":1,"floor_to":1,"category_changer":100397}' :configuration='{"submitUrl":"http:\/\/www.gratka.pl\/mapper\/","gpsEstateUrl":"http:\/\/www.gratka.pl\/b-dom\/ajax\/nowa_wyszukiwarka_miasto\/","urlSuggestion":"http:\/\/www.gratka.pl"}'></gratka-search>
+<script type="text/javascript" src="https://s-gg.ppstatic.pl/components/gratkasearchform/v1.1.34/build.js"></script>
+<div class="clearOver"></div>
+<div class="row">
+  <div id="nawigator" class="columns hide-for-small">
+    <p class="clearOver">
+      <a href="http://www.gratka.pl" title="Strona główna" class="gratka">Gratka.pl</a>
+              <a href="/">Nieruchomości</a>
+                                        <a href="/mieszkania/">Mieszkania rynek pierwotny i wtórny</a>
+                                                            <a href="/mieszkania/sprzedaz/">oferty sprzedaży</a>
+                                                            <a href="/mieszkania/wielkopolskie/">wielkopolskie</a>
+                                                            <a href="/mieszkania/poznan/">Poznań</a>
+                                                            <b>Rataje </b>
+                                      </p>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+    (function ($) {
+        $(document).ready(function() {
+            var katalog = oG_OSA.naglowekOnClick || '',
+                tr = oG_OSA.tracking,
+                nazwa = '',
+                adres = '';
+            katalog = katalog + '/';
+            $('#naglowek-menu a').each(function (){
+                nazwa = katalog + $(this).attr('href');
+                nazwa = nazwa.replace('dom.gratka.pl', '');
+                nazwa = nazwa.replace('http://', '');
+                nazwa = nazwa.replace(/\./g, '-');
+                nazwa = nazwa.replace(/\/\//g,'/');
+                adres = '/onclick/' + nazwa;
+                tr.push({elements: $(this), href: adres});
+            });
+        });
+    })(jQuery);
+</script>
+                        
+<div id="ogloszenia" class="ogloszenia row">
+  <span id="id-ogloszenia-google-maps" class="schowaj"></span>
+  <script type="text/javascript">
+    var wspolrzedne = new Object();
+  </script>
+  <div class="small-12 columns">
+              <div class="header clearOver">
+        <h1>Mieszkania na sprzedaż Poznań Rataje - wielkopolskie</h1><span>:&nbsp;</span>
+                  <span class="ilosc"> <b>10</b> ogłoszeń</span>
+                      </div>
+                
+                  <div class="row">
+                      <ul id="przelaczniki-widoku-zajawek" class="small-12 medium-4 large-4 columns changeView">
+  <li data-zajawki="podstawowa" data-gtm="widok-podstawowa" class="naListe icon-widok_lista_duza podstawowa active">
+    <a title="Przełącz na widok podstawowy">Widok podstawowy</a>
+  </li>
+  <li data-zajawki="uproszczona" data-gtm="widok-uproszczona" class="naListe icon-widok_lista_mala uproszczona hide-for-small ">
+    <a title="Przełącz na widok uproszczony">Widok uproszczony</a>
+  </li>
+  <li data-zajawki="galeria" data-gtm="widok-galeria" class="naListe galeria icon-widok_lista_galeria hide-for-small ">
+    <a title="Przełącz na widok galerii">Widok galerii</a>
+  </li>
+  <li data-zajawki="mapa" data-gtm="widok-mapa" class="mapa icon-widok_lista_mapa">
+    <a title="Przełącz na widok mapy">Widok mapy</a>
+  </li>
+</ul>
+
+<script>
+(function ($) {
+    $(function() {
+        var zdjeciaZajawek = $('#list-ads .linkDoKarty .zdjecie img'),
+            zdjeciaZajawekLista = $('#list-ads .linkDoKarty .zdjecie'),
+            listaOgloszen = $('#list-ads'),
+            podstawowa = $('#przelaczniki-widoku-zajawek li.podstawowa'),
+            uproszczona = $('#przelaczniki-widoku-zajawek li.uproszczona'),
+            galeria = $('#przelaczniki-widoku-zajawek li.galeria'),
+            mapa = $('#przelaczniki-widoku-zajawek li.mapa'),
+            czyPokazacWidokMapy = 52 != $('#rodzaj-transakcji').val();
+
+        if (!czyPokazacWidokMapy) {
+            mapa.addClass('schowaj');
+        }
+
+        var wyslijTracker = function(adres) {
+            var gaLink = $('<a href="#"></a>');
+            GR('oTrackEvents', [{ elements: gaLink.toArray(), href: adres}]);
+            gaLink.click();
+        };
+
+        var przelaczWidok = function(widok, czyWidokMapy) {
+            var poprzedniWidok = pobierzPoprzedniWidok();
+
+            if (('podstawowa' == widok) && ('podstawowa' !== poprzedniWidok)) {
+                przelaczNaPodstawowa();
+            }
+
+            if (('uproszczona' == widok) && ('uproszczona' !== poprzedniWidok)) {
+                przelaczNaUproszczona();
+            }
+
+            if (('galeria' == widok) && ('galeria' !== poprzedniWidok)) {
+                przelaczNaGaleria();
+            }
+
+            if (('mapa' == widok) && ('mapa' !== poprzedniWidok)) {
+                przelaczNaMape();
+            }
+            ustawLazyLoad();
+            wyslijTracker('/lista-ogloszen/wyswietlenie-listy/widok-'+widok);
+            if (czyWidokMapy && !mapa.hasClass('active')) {
+                $('#rodzaj-wyszukiwarki').val(23);
+                $.uzupelnijUkrytePolaFormularza();
+                $('form#nowa-wyszukiwarka').submit();
+            }
+        };
+
+        var pobierzPoprzedniWidok = function() {
+            if (listaOgloszen.hasClass('podstawowa')) {
+                return 'podstawowa';
+            } else if (listaOgloszen.hasClass('uproszczona')) {
+                return 'uproszczona';
+            } else if (listaOgloszen.hasClass('galeria')) {
+                return 'galeria';
+            } else if (mapa.hasClass('active')) {
+                return 'mapa';
+            } else {
+                return '';
+            }
+        };
+
+        var przelaczNaPodstawowa = function() {
+            wlaczPodstawowa();
+            wylaczUproszczona();
+            wylaczGaleria();
+            wylaczMapa();
+            odblokujChmurki();
+        };
+
+        var przelaczNaUproszczona = function() {
+            wylaczPodstawowa();
+            wlaczUproszczona();
+            wylaczGaleria();
+            wylaczMapa();
+            zablokujChmurki();
+        };
+
+        var przelaczNaGaleria = function() {
+            wylaczPodstawowa();
+            wylaczUproszczona();
+            wylaczMapa();
+            wlaczGaleria();
+            zablokujChmurki();
+        };
+
+        var przelaczNaMape = function() {
+            $('#rodzaj-wyszukiwarki').val(26);
+            Vue.postForm('map', 'true');
+        };
+
+        var wlaczPodstawowa = function() {
+            listaOgloszen.addClass('podstawowa');
+            podstawowa.addClass('active');
+        };
+
+        var wylaczPodstawowa = function() {
+            listaOgloszen.removeClass('podstawowa');
+            podstawowa.removeClass('active');
+        };
+
+        var wlaczUproszczona = function() {
+            listaOgloszen.addClass('uproszczona');
+            uproszczona.addClass('active');
+        };
+
+        var wylaczUproszczona = function() {
+            listaOgloszen.removeClass('uproszczona');
+            uproszczona.removeClass('active');
+        };
+
+        var wlaczGaleria = function() {
+            listaOgloszen.addClass('galeria');
+            galeria.addClass('active');
+        };
+
+        var wylaczGaleria = function() {
+            listaOgloszen.removeClass('galeria');
+            galeria.removeClass('active');
+        };
+
+        var wylaczMapa = function() {
+            listaOgloszen.removeClass('mapa');
+            mapa.removeClass('active');
+        };
+
+        var odblokujChmurki = function() {
+            zdjeciaZajawek.removeClass('chmurkaZablokowana');
+        };
+
+        var zablokujChmurki = function() {
+            zdjeciaZajawek.addClass('chmurkaZablokowana');
+        };
+
+        var ustawLazyLoad = function() {
+            $('#list-ads .linkDoKarty .zdjecie').lazyDyn(zdjeciaZajawekLista);
+        };
+
+        var zapamietajWidok = function(widok) {
+            GR('ustawCookie', 'widokZajawek', widok, 86400, '/');
+        };
+
+        var przelaczWidokZajawekRWD = function() {
+            ustawLazyLoad();
+        };
+
+        $('#przelaczniki-widoku-zajawek li').each(function() {
+            $(this).click(function() {
+                var widok = $(this).data('zajawki');
+                var czyWidokMapy =  mapa.hasClass('active');
+                zapamietajWidok(widok);
+                przelaczWidok(widok, czyWidokMapy);
+            });
+        });
+        przelaczWidokZajawekRWD();
+
+        window.onorientationchange = function() {
+            setTimeout(przelaczWidokZajawekRWD, 1000);
+        };
+    });
+})(jQuery);
+</script>
+
+                                <div class="small-12 medium-4 large-4 columns sortList">
+  <div class="ladnyDropdown">
+    <p>
+              <span>Wyróżnienia: <b>malejąco</b></span>
+          </p>
+    <dl class="linki">
+                <dt>Cena:</dt>
+                      <dd><a data-nazwa-pole='Cena' data-value="c_0" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,c_0,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/cena-malejaco" data-gtm="sortowanie-cena-malejaco">od najwyższej</a></dd>
+            <dd><a data-nazwa-pole='Cena' data-value="c_1" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,c_1,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/cena-rosnaco" data-gtm="sortowanie-cena-rosnaco">od najniższej</a></dd>
+                          <dt>Cena za m<sup>2</sup>:</dt>
+                      <dd><a data-nazwa-pole='Cena za m<sup>2</sup>' data-value="z_0" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,z_0,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/cena-za-m2-malejaco" data-gtm="sortowanie-cena-za-m2-malejaco">od najwyższej</a></dd>
+            <dd><a data-nazwa-pole='Cena za m<sup>2</sup>' data-value="z_1" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,z_1,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/cena-za-m2-rosnaco" data-gtm="sortowanie-cena-za-m2-rosnaco">od najniższej</a></dd>
+                          <dt>Data dodania:</dt>
+                      <dd><a data-nazwa-pole='Data dodania' data-value="d_0" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,d_0,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/data-od-najmlodszych" data-gtm="sortowanie-data-od-najmlodszych">od najnowszych</a></dd>
+            <dd><a data-nazwa-pole='Data dodania' data-value="d_1" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,d_1,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/data-od-najstarszych" data-gtm="sortowanie-data-od-najstarszych">od najstarszych</a></dd>
+                          <dt>Data aktualizacji:</dt>
+                      <dd><a data-nazwa-pole='Data aktualizacji' data-value="dm_0" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,dm_0,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/data-aktualizacji-od-najmlodszych" data-gtm="sortowanie-data-aktualizacji-od-najmlodszych">od najnowszych</a></dd>
+            <dd><a data-nazwa-pole='Data aktualizacji' data-value="dm_1" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,dm_1,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/data-aktualizacji-od-najstarszych" data-gtm="sortowanie-data-aktualizacji-od-najstarszych">od najstarszych</a></dd>
+                          <dt>Powierzchnia:</dt>
+                      <dd><a data-nazwa-pole='Powierzchnia' data-value="sp_0" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,sp_0,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/powierzchnia-malejaco" data-gtm="sortowanie-powierzchnia-malejaco">od największych</a></dd>
+            <dd><a data-nazwa-pole='Powierzchnia' data-value="sp_1" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,sp_1,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/powierzchnia-rosnaco" data-gtm="sortowanie-powierzchnia-rosnaco">od najmniejszych</a></dd>
+                          <dt>Pokoje:</dt>
+                      <dd><a data-nazwa-pole='Pokoje' data-value="r_0" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,r_0,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/liczba-pokoi-malejaco" data-gtm="liczba-pokoi-malejaco"> od największej liczby</a></dd>
+            <dd><a data-nazwa-pole='Pokoje' data-value="r_1" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,r_1,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/liczba-pokoi-rosnaco" data-gtm="liczba-pokoi-rosnaco">od najmniejszej liczby</a></dd>
+                          <dt>Kompletność:</dt>
+                      <dd><a data-nazwa-pole='Kompletność' data-value="kom_0" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,kom_0,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/kompletnosc-malejaco" data-gtm="sortowanie-kompletnosc-malejaco">od największej</a></dd>
+            <dd><a data-nazwa-pole='Kompletność' data-value="kom_1" href="/mieszkania-sprzedam/lista/wielkopolskie,poznan,rataje,kom_1,60,80,3,6,1,1,dz,sr,mo,md,lpo,ld,po,pd.html" data-tracker="/onclick/lista-ogloszen/sortowanie/kompletnosc-rosnaco" data-gtm="sortowanie-kompletnosc-rosnaco">od najmniejszej</a></dd>
+                    </dl>
+  </div>
+</div>
+
+<script>
+    jQuery(function($) {
+        var rodzajEventu = $('html').hasClass('touch') ? 'touchend' : 'click';
+
+        $('.sortList .ladnyDropdown p').on(rodzajEventu, function () {
+            var dropdownClicker = $(this),
+                dropdown = dropdownClicker.parent().toggleClass('rozwiniete');
+
+            if (dropdown.hasClass('rozwiniete')) {
+                $(document).on(rodzajEventu, function(e) {
+                    if (!dropdown.is(e.target) && dropdown.has(e.target).length === 0) {
+                        dropdown.removeClass('rozwiniete');
+                        $(this).unbind(e);
+                    }
+                });
+            }
+        });
+    });
+</script>
+
+                                  <div class="stronicowanie small-12 large-4 columns"></div>
+
+                  </div>
+            
+                <ul id="list-ads" class="clearOver podstawowa">
+                        
+    
+
+  <li class="naglowek drugi">
+    <h3>Lista ogłoszeń</h3>
+  </li>
+
+
+
+  <li class="clearOver falszywa">
+    <script type="text/javascript">
+      var konf = {"name":"fakeAd","hideWhenEmpty":true},
+          cscr = document.currentScript || (function() {
+            var scrs = document.getElementsByTagName('script');
+            return scrs[scrs.length - 1];
+          })();
+      jQuery.fn.insertAd({ placement: konf }, cscr);
+    </script>
+  </li>
+
+
+<li id="lista-wiersz-73027439" data-gtm="zajawka" data-pozycja="1" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'73027439','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-73027439-wielkopolskie-poznan-rataje-malta-centrum-katowicka.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-73027439-wielkopolskie-poznan-rataje-malta-centrum-katowicka.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje Malta Centrum, ul. Katowicka" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje Malta Centrum, ul. Katowicka" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/98/e7/73027439_49653319_mieszkanie-poznan-rataje-malta-centrum-ul-katowicka_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>545 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje Malta Centrum, ul. Katowicka</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, <span class="duzeLitery">2003</span>&nbsp;rok&nbsp;budowy, <span class="duzeLitery">7</span> <span class="duzeLitery">676</span> zł/m<sup>2</sup><span>, <b>71</b> m<sup>2</sup></span></p><p class="infoZajawka">Serdecznie polecam na sprzedaż 3 pokojowe mieszkanie usytuowane na wysokim parterze w V piętrowym bloku przy ul. Katowickiej w Poznaniu. Na 71m2 składają się:- salon połączony z aneksem kuchennym- sypialnia- sypialnia- łazienka- korytarzDużym atutem mieszkania są 2 przynależące balkony!!! Mieszkanie o UKŁADZIE NIEZALEŻNYM. Kuchnia w zabudowie w...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-73027439" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o73027439 = {
+          idKategoria:397,
+          idOgloszenie:73027439,
+          x:52.3987,
+          y:16.9623,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje Malta Centrum',
+              'Katowicka'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje_malta_centrum,463250,626750,54,89,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>w tym miesiącu</b></li><li>Aktualizacja: <b>w tym miesiącu</b></li><li>Liczba odsłon: <b>74</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(73027439)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-73027439'), GR('$$', 'notes-komunikat-73027439'), 73027439, false);" class="schowekDodaj icon-ulubione_obrys notes-link-73027439" data-ulubione="0"></a>
+        <span class="notes-komunikat-73027439 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-72869933" data-gtm="zajawka" data-pozycja="2" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'72869933','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-72869933-wielkopolskie-poznan-rataje-os-stare-zegrze.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-72869933-wielkopolskie-poznan-rataje-os-stare-zegrze.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, ul. Os. Stare Żegrze" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, ul. Os. Stare Żegrze" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/b3/ad/72869933_46328643_mieszkanie-poznan-rataje-ul-os-stare-zegrze_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>485 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje, ul. Os. Stare Żegrze</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, <span class="duzeLitery">1997</span>&nbsp;rok&nbsp;budowy, <span class="duzeLitery">6</span> <span class="duzeLitery">644</span> zł/m<sup>2</sup><span>, <b>73</b> m<sup>2</sup></span></p><p class="infoZajawka">Polecam na sprzedaż przestronne, funkcjonalne mieszkanie na Starym Żegrzu!Mieszkanie położone na parterze 20-letniego bloku o powierzchni 73 m2.W skład mieszkania wchodzą 3 pokoje: 26 m2 salon, 13,3 m2 sypialnia oraz 10m2 pokój oraz kuchnia 6m2.Niewątpliwym atutem mieszkania są dwie łazienki: pierwsza wraz z wanną oraz WC z oknem 5,8m2, druga z...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-72869933" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o72869933 = {
+          idKategoria:397,
+          idOgloszenie:72869933,
+          x:52.3824,
+          y:16.9651,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje',
+              'os. Stare Żegrze'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje,412250,557750,55,92,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>w tym miesiącu</b></li><li>Liczba odsłon: <b>42</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(72869933)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-72869933'), GR('$$', 'notes-komunikat-72869933'), 72869933, false);" class="schowekDodaj icon-ulubione_obrys notes-link-72869933" data-ulubione="0"></a>
+        <span class="notes-komunikat-72869933 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-72852673" data-gtm="zajawka" data-pozycja="3" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'72852673','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-72852673-wielkopolskie-poznan-rataje-katowicka-polanka.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-72852673-wielkopolskie-poznan-rataje-katowicka-polanka.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, ul. Katowicka Polanka" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, ul. Katowicka Polanka" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/1b/e5/72852673_46090671_mieszkanie-poznan-rataje-ul-katowicka-polanka_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>545 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje, ul. Katowicka Polanka</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, <span class="duzeLitery">2003</span>&nbsp;rok&nbsp;budowy, <span class="duzeLitery">7</span> <span class="duzeLitery">676</span> zł/m<sup>2</sup><span>, <b>71</b> m<sup>2</sup></span></p><p class="infoZajawka">Polecam na sprzedaż bardzo ładne mieszkanie 3 pokojowe w Poznaniu przy ul. Katowickiej (osiedle Atanera).Mieszkanie o powierzchni 71 m2 znajduje się na parterze w 5-piętrowym budynku z 2003 roku. Układ:- salon połączony z kuchnią w formie aneksu kuchennego.- dwie sypialnie- łazienka z WC - przedpokójDo mieszkania przynależą dwa balkony.Do...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-72852673" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o72852673 = {
+          idKategoria:397,
+          idOgloszenie:72852673,
+          x:52.398,
+          y:16.9641,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje',
+              'Katowicka Polanka'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje,463250,626750,54,89,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>więcej niż miesiąc temu</b></li><li>Liczba odsłon: <b>90</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(72852673)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-72852673'), GR('$$', 'notes-komunikat-72852673'), 72852673, false);" class="schowekDodaj icon-ulubione_obrys notes-link-72852673" data-ulubione="0"></a>
+        <span class="notes-komunikat-72852673 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+          <li class="textC rekOferta">
+      <script type="text/javascript">
+        var konf = {"name":"srodek1","hideWhenEmpty":true},
+            cscr = document.currentScript || (function() {
+              var scrs = document.getElementsByTagName('script');
+              return scrs[scrs.length - 1];
+            })();
+        jQuery.fn.insertAd({ placement: konf }, cscr);
+      </script>
+    </li>
+              
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-72643627" data-gtm="zajawka" data-pozycja="4" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'72643627','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-72643627-wielkopolskie-poznan-rataje-nowe-miasto-centrum-wilda-armii-krajowej-os.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-72643627-wielkopolskie-poznan-rataje-nowe-miasto-centrum-wilda-armii-krajowej-os.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, Nowe Miasto, Centrum, Wilda, ul. Armii Krajowej os." longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, Nowe Miasto, Centrum, Wilda, ul. Armii Krajowej os." longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/31/cb/72643627_42637109_mieszkanie-poznan-rataje-nowe-miasto-centrum-wilda-ul-armii-krajowej-os_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>359 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje, Nowe Miasto, Centrum, Wilda, ul. Armii Krajowej os.</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, <span class="duzeLitery">5</span> <span class="duzeLitery">609</span> zł/m<sup>2</sup><span>, <b>64</b> m<sup>2</sup></span></p><p class="infoZajawka">Polecam na sprzedaż trzypokojowe mieszkanie z ogródkiem w Poznaniu na os. Armii KrajowejMieszkanie położone na wysokim parterze w czteropiętrowym bloku na os. Armii Krajowej w Poznaniu. Blok docieplony i otynkowany ? klatka schodowa ok pół roku po remoncie.Mieszkanie jest świeżo po remoncie i nie wymaga żadnego wkładu finansowego.Nowe panele,...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-72643627" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o72643627 = {
+          idKategoria:397,
+          idOgloszenie:72643627,
+          x:52.4046,
+          y:16.9489,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje, Nowe Miasto, Centrum, Wilda',
+              'Armii Krajowej os.'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje%5e_nowe_miasto%5e_centrum%5e_wilda,305150,412850,48,80,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>przedwczoraj</b></li><li>Liczba odsłon: <b>294</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(72643627)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-72643627'), GR('$$', 'notes-komunikat-72643627'), 72643627, false);" class="schowekDodaj icon-ulubione_obrys notes-link-72643627" data-ulubione="0"></a>
+        <span class="notes-komunikat-72643627 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-72595553" data-gtm="zajawka" data-pozycja="5" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'72595553','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-72595553-wielkopolskie-poznan-rataje-os-jagiellonskie.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-72595553-wielkopolskie-poznan-rataje-os-jagiellonskie.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, ul. Os. Jagiellońskie" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, ul. Os. Jagiellońskie" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/c4/9b/72595553_41827019_mieszkanie-poznan-rataje-ul-os-jagiellonskie_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>385 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje, ul. Os. Jagiellońskie</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">4</span>&nbsp;pokoje, parter, <span class="duzeLitery">6</span> <span class="duzeLitery">291</span> zł/m<sup>2</sup><span>, <b>61,20</b> m<sup>2</sup></span></p><p class="infoZajawka">Mieszkanie położone w niskim ocieplonym budynku w bardzo dobrej lokalizacjiw bliskiej odległości od ronda Rataje.Przestronny rozkład o pow. 61,20m2 na którą składają się cztery niezależne pokoje, kuchnia, przedpokój, łazienka i osobna toaleta.Pokój16m2 z wyjściem na loggię, pokój 9m2, i pokój 12m2 od południowej strony świata. Pokój przy kuchni...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-72595553" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o72595553 = {
+          idKategoria:397,
+          idOgloszenie:72595553,
+          x:52.3878,
+          y:16.9588,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje',
+              'Os. Jagiellońskie'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje,327250,442750,46,77,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>więcej niż miesiąc temu</b></li><li>Liczba odsłon: <b>250</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(72595553)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-72595553'), GR('$$', 'notes-komunikat-72595553'), 72595553, false);" class="schowekDodaj icon-ulubione_obrys notes-link-72595553" data-ulubione="0"></a>
+        <span class="notes-komunikat-72595553 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-72574581" data-gtm="zajawka" data-pozycja="6" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'72574581','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-72574581-wielkopolskie-poznan-rataje-armii-krajowej.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-72574581-wielkopolskie-poznan-rataje-armii-krajowej.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, ul. Armii Krajowej" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, ul. Armii Krajowej" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/03/8d/72574581_41266709_mieszkanie-poznan-rataje-ul-armii-krajowej_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>359 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje, ul. Armii Krajowej</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, <span class="duzeLitery">1970</span>&nbsp;rok&nbsp;budowy, <span class="duzeLitery">5</span> <span class="duzeLitery">523</span> zł/m<sup>2</sup><span>, <b>65</b> m<sup>2</sup></span></p><p class="infoZajawka">Mieszkanie 3-pokojowe świeżo po remoncie, w spokojnej okolicy na os. Armii Krajowej na Ratajach. Ogromnym atutem nieruchomości jest przynależny do niej ogród o powierzchni ok. 100 m2, do którego wchodzi się bezpośrednio z balkonu.Pełna własność z KW.Mieszkanie o powierzchni 65 m2 znajduje się na paterze niskiego, 4-piętrowego bloku, składa się...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-72574581" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o72574581 = {
+          idKategoria:397,
+          idOgloszenie:72574581,
+          x:52.3797,
+          y:16.9506,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje',
+              'Armii Krajowej'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje,305150,412850,49,82,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>w tym tygodniu</b></li><li>Liczba odsłon: <b>208</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(72574581)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-72574581'), GR('$$', 'notes-komunikat-72574581'), 72574581, false);" class="schowekDodaj icon-ulubione_obrys notes-link-72574581" data-ulubione="0"></a>
+        <span class="notes-komunikat-72574581 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-72525789" data-gtm="zajawka" data-pozycja="7" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'72525789','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-72525789-wielkopolskie-poznan-rataje-os-zodiak.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-72525789-wielkopolskie-poznan-rataje-os-zodiak.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, ul. Os. Zodiak" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, ul. Os. Zodiak" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/4e/b1/72525789_47996029_mieszkanie-poznan-rataje-ul-os-zodiak_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>360 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje, ul. Os. Zodiak</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, <span class="duzeLitery">1987</span>&nbsp;rok&nbsp;budowy, <span class="duzeLitery">5</span> <span class="duzeLitery">625</span> zł/m<sup>2</sup><span>, <b>64</b> m<sup>2</sup></span></p><p class="infoZajawka">Polecam do zakupu - nowoczesne mieszkanie o powierzchni 64 m2 zlokalizowane na osiedlu Zodiak, tuż przy poznańskiej Malcie. Mieszkanie znajduje się na parterze w dwupiętrowym bloku zbudowanym w drugiej połowie lat 80-tych w technologi mieszanej. Okolica jest cicha i spokojna, zieleń wokół bloków jest zadbana, a elewacja budynku kilka lat temu...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-72525789" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o72525789 = {
+          idKategoria:397,
+          idOgloszenie:72525789,
+          x:52.3933,
+          y:16.9877,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje',
+              'Os. Zodiak'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje,306000,414000,48,80,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>wczoraj</b></li><li>Liczba odsłon: <b>262</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(72525789)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-72525789'), GR('$$', 'notes-komunikat-72525789'), 72525789, false);" class="schowekDodaj icon-ulubione_obrys notes-link-72525789" data-ulubione="0"></a>
+        <span class="notes-komunikat-72525789 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-70486764" data-gtm="zajawka" data-pozycja="8" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'70486764','id_kat':'422','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver bigger">
+    <a href="/deweloperzy/tresc/422-70486764-1-gornytaras.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><b class="ribbons"><span class="label-1">Rynek Pierwotny</span></b><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/deweloperzy/tresc/422-70486764-1-gornytaras.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, ul. Dymka 190" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, ul. Dymka 190" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/17/ac/70486764_8053042_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>422 964</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Nowe mieszkanie Poznań Rataje, ul. Dymka 190</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, termin oddania: Grudzień 2017, <span class="duzeLitery">6</span> <span class="duzeLitery">200</span> zł/m<sup>2</sup><span>, <b>68,22</b> m<sup>2</sup></span></p><p class="infoZajawka"></p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-70486764" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o70486764 = {
+          idKategoria:422,
+          idOgloszenie:70486764,
+          x:52.3955,
+          y:16.9844,
+          zoom:17,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje',
+              'Dymka 190'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/deweloperzy-nowe-mieszkania/mapa/wielkopolskie,poznan,rataje,359520,486409,52,86,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>pierwotny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>więcej niż miesiąc temu</b></li><li>Liczba odsłon: <b>380</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(70486764)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-70486764'), GR('$$', 'notes-komunikat-70486764'), 70486764, false);" class="schowekDodaj icon-ulubione_obrys notes-link-70486764" data-ulubione="0"></a>
+        <span class="notes-komunikat-70486764 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-70011719" data-gtm="zajawka" data-pozycja="9" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'70011719','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-70011719-wielkopolskie-poznan-rataje-os-armii-krajowej-z-ogrodkiem.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-70011719-wielkopolskie-poznan-rataje-os-armii-krajowej-z-ogrodkiem.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, ul. Os. Armii Krajowej z Ogródkiem" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, ul. Os. Armii Krajowej z Ogródkiem" longdesc="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/64/23/70011719_1423229_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>333 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje, ul. Os. Armii Krajowej z Ogródkiem</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, <span class="duzeLitery">5</span> <span class="duzeLitery">203</span> zł/m<sup>2</sup><span>, <b>64</b> m<sup>2</sup></span></p><p class="infoZajawka">POLECAM!!! Mieszkanie 3 pokojowe z ogródkiem w niskim ocieplonym bloku na parterze. Powierzchnia pokoi 18m2, 12m2, 12m2, kuchnia 10m2, przestrzenny korytarz w literze &quot;L&quot; osobno łazienka osobno wc .Do mieszkania przynależy piwnica , loggia oraz ogródkiem 45m2Podłogi po wymianie , generalny remont kuchni, piony wodno kanalizacyjne po...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-70011719" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o70011719 = {
+          idKategoria:397,
+          idOgloszenie:70011719,
+          x:52.4046,
+          y:16.9489,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje',
+              'os. Armii Krajowej z ogródkiem'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje,283050,382950,48,80,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>więcej niż miesiąc temu</b></li><li>Liczba odsłon: <b>1158</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(70011719)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-70011719'), GR('$$', 'notes-komunikat-70011719'), 70011719, false);" class="schowekDodaj icon-ulubione_obrys notes-link-70011719" data-ulubione="0"></a>
+        <span class="notes-komunikat-70011719 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+
+                  
+    
+
+
+
+
+
+
+<li id="lista-wiersz-65669212" data-gtm="zajawka" data-pozycja="10" data-punkty-wyroznienia="0" data-ogloszenie="{'id_ogl':'65669212','id_kat':'397','polozenie':'lista'}" class="linkDoKarty ogloszenie clearOver standard">
+    <a href="/tresc/397-65669212-wielkopolskie-poznan-rataje-poznan-os-stare-zegrze-nowszy-niski-blok.html" data-tracker="/onclick/lista-ogloszen/zajawka/tytul/" data-gtm="wiersz/">
+  <div class="spin zdjecie"><span class="zdj" data-gtm="podglad-zdjecia-klikniecie" data-ogloszenie="{'url_ogloszenia':'/tresc/397-65669212-wielkopolskie-poznan-rataje-poznan-os-stare-zegrze-nowszy-niski-blok.html'}"><img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_mini.jpg" class="lazy chmurki powiekszenie " alt="Poznań, Rataje, ul. Poznań os. Stare Żegrze Nowszy Niski Blok" longdesc="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_rm.jpg"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_mini.jpg" class=" chmurki powiekszenie " alt="Poznań, Rataje, ul. Poznań os. Stare Żegrze Nowszy Niski Blok" longdesc="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_mini.jpg" data-zdj-s="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_mini.jpg" data-zdj-w="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_w.jpg" data-zdj-sm="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_smini.jpg" data-zdj-rm="https://d-gd.ppstatic.pl/kadry/ogl/2e/85/9292-2190796312_rm.jpg"></noscript></span></div><div class="detailedPrice">
+      <p class="price"><b>345 000</b> <span>zł</span></p>
+  </div>
+
+    <div class="ogloszenieInfo"><em>mieszkanie na sprzedaż</em><h2>Mieszkanie Poznań Rataje, ul. Poznań os. Stare Żegrze Nowszy Niski Blok</h2><div class="infoLista"><p class="infoDane"><span class="duzeLitery">3</span>&nbsp;pokoje, parter, <span class="duzeLitery">5</span> <span class="duzeLitery">059</span> zł/m<sup>2</sup><span>, <b>68,20</b> m<sup>2</sup></span></p><p class="infoZajawka">OFERTA ZABLOKOWANA Polecam do sprzedaży ładne rozkładowo, zadbane mieszkanie 3 pokojowe o powierzchni 68,2m2,położone na wysokim parterze niskiego bloku z 1997 roku na osiedlu Stare Żegrze w dzielnicy Rataje.Stan prawny to spółdzielcze ?własnościowe prawo do lokalu.Rozkład pomieszczeń: trzy niezależne pokoje o powierzchniach...</p></div></div>
+
+<div class="clearOver schowaj widokMapa">
+  <i class="zamknijInfo icon-krzyzyk" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/zamknij/" data-gtm="mapa-zamknij" title="Zamknij">zamknij</i>
+  <div>
+    <div id="mapa-duza-65669212" class="mapa"></div>
+          <script type="text/javascript">
+        wspolrzedne.o65669212 = {
+          idKategoria:397,
+          idOgloszenie:65669212,
+          x:52.4046,
+          y:16.9489,
+          zoom:4,
+          adres:[
+              'Polska',
+              'wielkopolskie',
+              '',
+              'Poznań',
+              'Rataje',
+              'Poznań os. Stare Żegrze NOWSZY NISKI BLOK'
+          ],
+          urlDoMapyPodobnych:'http://dom.gratka.pl/mieszkania-rynek-wtorny/mapa/wielkopolskie,poznan,rataje,293250,396750,52,86,dz,co,cd,mo,md.html'
+        };
+      </script>
+      </div>
+</div>
+      <footer><ul><li class="punkty"></li><li>Rynek: <b>wtórny</b></li><li>Dodano: <b>więcej niż miesiąc temu</b></li><li>Aktualizacja: <b>więcej niż miesiąc temu</b></li><li>Liczba odsłon: <b>483</b></li></ul></footer>
+
+
+    </a>
+  <div class="options">
+          <span class="adSlotLink1Lista"></span>
+    
+        
+          <div>
+    
+          <p class="mapa">
+        <span class="icon-widok_lista_mapa infoDodatkoweKlik" onclick="inicjalizujMape(65669212)" data-tracker="/onclick/lista-ogloszen/zajawka/mapa/otworz/" data-gtm="mapa">Na mapie</span>
+      </p>
+    
+          <p class="ukryjOgloszenie" data-gtm="zajawka-ukryj">
+        <a class="icon-ukryj_ogloszenie">Ukryj</a>
+      </p>
+    
+          <p class="favourite" data-tracker="/onclick/lista-ogloszen/zajawka/ulubione/" data-gtm="zajawka-ulubione">
+        <a title="Dodaj do ulubionych" onclick="ulubioneDodajUsun(GR('$$', 'notes-link-65669212'), GR('$$', 'notes-komunikat-65669212'), 65669212, false);" class="schowekDodaj icon-ulubione_obrys notes-link-65669212" data-ulubione="0"></a>
+        <span class="notes-komunikat-65669212 schowaj"></span>
+      </p>
+    
+          </div>
+    
+  </div>
+</li>
+
+
+                  
+
+  <li class="clearOver falszywa">
+    <script type="text/javascript">
+      var konf = {"name":"fakeAdOgloszenia","hideWhenEmpty":true},
+          cscr = document.currentScript || (function() {
+            var scrs = document.getElementsByTagName('script');
+            return scrs[scrs.length - 1];
+          })();
+      jQuery.fn.insertAd({ placement: konf }, cscr);
+    </script>
+  </li>
+
+              </ul>
+
+      <ul id="ukryjOgloszenie" style="display: none;">
+        <li class="ukryte" style="display: none;">
+          <b>Ukryta oferta</b>
+          <span class="icon-pokaz_ogloszenie right odkryjOgloszenie" title="Odkryj ofertę">Odkryj ogłoszenie</span>
+          <div class="ogloszenieInfo">
+            <span></span>
+          </div>
+        </li>
+      </ul>
+      <script type="text/javascript">
+(function () {
+  var daneOgloszenia = { },
+      gaLink,
+      wyslijTag = function(tag) {
+        if (tag && tag.length > 0) {
+            dataLayer.push({
+                'event':'GAEvent',
+                'event-action':'push',
+                'event-label': tag
+            });
+        }
+      };
+  oG_OSA.chmurki['chmurki-powiekszenie'] = {
+      fn: 'zoom',
+      pozycja: 'cr',
+      x: 120,
+      y: 60,
+      przesunPoziomo:'25',
+      przesunPionowo:'75',
+      ustalPozycje:'1',
+      strzalka:'/g/ikona_gadzet.png',
+      zaczep: {
+          click: function (ob) {
+              if (ob.parentNode.getAttribute('data-ogloszenie')) {
+                  daneOgloszenia = ob.parentNode.getAttribute('data-ogloszenie').toObject();
+              }
+              if (ob.isVisible) {
+                  gaLink = jQuery('<a href="#"><\/a>');
+                  GR('oTrackEvents', [{ elements: gaLink.toArray(), href: '/onclick/lista-ogloszen/podglad-zdjecia/klikniecie'}]);
+                  gaLink.click();
+              }
+              location.href = daneOgloszenia.url_ogloszenia;
+          },
+          show: function (ob) {
+              gaLink = jQuery('<a href="#"><\/a>');
+              GR('oTrackEvents', [{ elements: gaLink.toArray(), href: '/onclick/lista-ogloszen/podglad-zdjecia/wyswietlenie'}]);
+              wyslijTag('podglad-zdjecia-wyswietlenie');
+              gaLink.click();
+              ob.isVisible = true;
+          },
+          hide: function (ob) {
+              ob.isVisible = false;
+          }
+      }
+  };
+})();
+</script>
+
+
+              <div class="row marginGMaly marginDMaly">
+  
+  <div class="stronicowanie small-12 large-6 columns right"></div>
+</div>
+
+            </div>
+</div>
+<script type="text/javascript">
+    (function($, tr) {
+        var wyslijTracker = function(adres) {
+            var gaLink = jQuery('<a href="#"></a>');
+            GR('oTrackEvents', [{ elements: gaLink.toArray(), href: adres}]);
+            gaLink.click();
+        }
+
+        if (document.body.offsetWidth < 593) {
+            $('.powiekszenie').removeClass('chmurki powiekszenie');
+        }
+        $('.stronicowanie a.strona').each(function (){
+            var elem = $(this);
+            tr.push({ elements: elem, href: '/onclick/lista-ogloszen/stronicowanie/liczby/' + elem.html()});
+        });
+        $('.stronicowanie a.stronaNastepna').each(function (){
+            var elem = $(this);
+            tr.push({ elements: elem, href: '/onclick/lista-ogloszen/stronicowanie/nastepna'});
+        });
+
+        $('.stronicowanie a.stronaPoprzednia').each(function (){
+            var elem = $(this);
+            tr.push({ elements: elem, href: '/onclick/lista-ogloszen/stronicowanie/poprzednia'});
+        });
+
+        $('.mapa > span').click(function () {
+            $(this).toggleClass('aktywny');
+            $(this).parents('li').find('.widokMapa').toggleClass('schowaj');
+        });
+
+        $('.zamknijInfo').click(function (e) {
+            $(this).parent().addClass('schowaj');
+            $(this).parents('li').find('.options .mapa > span').removeClass('aktywny');
+            return false;
+        });
+
+        $(".pkt").mouseover(function() {
+            $(this).trigger('track-event');
+        });
+
+        $('.ukryjOgloszenie').click(function() {
+            var $wiersz = $(this).parents("[id^=lista-wiersz]"),
+                daneOgloszenia = $wiersz.attr('data-ogloszenie').toObject(),
+                dane = {};
+            dane[daneOgloszenia.id_kat + '-' + daneOgloszenia.id_ogl] = daneOgloszenia.id_ogl;
+
+            if (!$wiersz.prev('li.ukryte').length) {
+                var $zaslepka = $('#ukryjOgloszenie li').clone(true);
+
+                $zaslepka.find('div span').html($wiersz.find('div.ogloszenieInfo h2').html());
+                $zaslepka.find('.odkryjOgloszenie').attr({
+                  'data-odkryj': $wiersz.attr('id'),
+                  'data-gtm': 'zajawka-odkryj'
+                });
+
+                $wiersz.slideUp();
+                $zaslepka.insertBefore($wiersz).slideDown();
+            } else {
+                $wiersz.slideUp();
+                $wiersz.prev('li.ukryte').slideDown();
+            }
+
+            $.ajax({
+                type: "POST",
+                url: '/ajax/modyfikacja-sesji/',
+                data: { 'nazwa':'ogloszeniaUkryte', 'wartosc':dane, 'dopisz':1}
+            });
+            wyslijTracker('/onclick/lista-ogloszen/ukryta-oferta/ukryj/');
+        });
+
+        $('.odkryjOgloszenie').click(function() {
+            var $wiersz = $(this).parent().next(),
+                daneOgloszenia = $wiersz.attr('data-ogloszenie').toObject();
+
+            $(this).parent().slideUp();
+            $('#' + $(this).attr('data-odkryj')).slideDown();
+            $.ajax({
+                type: "POST",
+                url: '/ajax/modyfikacja-sesji/',
+                data: { 'nazwa':'ogloszeniaUkryte', 'wartosc':daneOgloszenia.id_kat + '-' + daneOgloszenia.id_ogl, 'usun':1}
+            });
+            wyslijTracker('/onclick/lista-ogloszen/ukryta-oferta/pokaz/');
+        });
+
+        $('#odkryj-wszystkie').click(function() {
+            $('.ukryte').slideUp();
+            $('.ukryte').next('li').slideDown();
+            $('.naglowek.ukryty').slideUp();
+
+            $.ajax({
+                type: "POST",
+                url: '/ajax/modyfikacja-sesji/',
+                data: { 'nazwa':'ogloszeniaUkryte'}
+            });
+            wyslijTracker('/onclick/lista-ogloszen/ukryta-oferta/odkryj-wszystkie/');
+        });
+
+        
+    }) (jQuery, oG_OSA.tracking);
+    oG_OSA.naglowekOnClick = 'list-ads';
+</script>
+<script type="text/javascript">
+  (function ($) {
+      $(function() {
+          $('.linkDoKarty .formularzKontakt').click(function(e){
+              var url = $(this).attr("data-href");
+              $.magnificPopup.open({
+                  items: {
+                      src: url
+                  },
+                  midClick: true,
+                  closeBtnInside: true,
+                  tLoading: '<img src="https://s-gd.ppstatic.pl/g/ajax_loader.gif" alt="Czekaj...">',
+                  type: 'ajax',
+                  callbacks: {
+                      beforeOpen: function() {
+                          this.st.mainClass = 'mfp-fade';
+                      }
+                  },
+                  ajax: {
+                      tError: 'Wystąpił błąd, prosimy spróbować później.'
+                  }
+              });
+              return false;
+          });
+
+          $('.kompletnosc span').click(function() {
+              var url = $(this).attr("data-href");
+              window.open(url, '_blank');
+              return false;
+          });
+      });
+  })(jQuery);
+</script>
+<script type="text/javascript">
+  (function ($) {
+    $(function() {
+      var podmenu = $('#inna-lokalizacja h6');
+
+      // sekcja deklaracji funkcji
+      var pokazUkryjDodatkoweOpcje = function() {
+        podmenu.hover(
+          function(){
+            $(this).parent().find('.boks').fadeIn();
+          }
+        );
+        $('#inna-lokalizacja').hover(
+          function(){},
+          function(){
+            $(this).find('.boks').fadeOut();
+          }
+        );
+
+        // podpinamy zdarzenia na touchstart
+        if ('ontouchstart' in document.documentElement) {
+          podmenu.each(function() {
+            var $this = $(this);
+            this.addEventListener('touchstart', function(e) {
+              if (e.touches.length === 1) {
+                e.stopPropagation();
+                if (e.target === this || e.target.parentNode === this) {
+                  e.preventDefault();
+                }
+                if ($this.hasClass('odkryj')) {
+                  // chowamy, jezeli kliknieto ponownie w ikonke
+                  if (e.target === this || e.target.parentNode === this) {
+                    podmenu.find('.boks').removeClass("odkryj").hide()
+                  }
+                } else {
+                  podmenu.find('.boks').removeClass("odkryj").hide()
+                  $this.parent().find('.boks').addClass("odkryj").show();
+                }
+                // chowamy na touch gdziekolwiek
+                document.addEventListener('touchstart', closeDropdown = function(e) {
+                  e.stopPropagation();
+                  $this.parent().find('.boks').removeClass("odkryj").hide();
+                  document.removeEventListener('touchstart', closeDropdown);
+                });
+              }
+            }, false);
+          });
+        }
+      };
+      // sekcja wykonywania funkcji
+      pokazUkryjDodatkoweOpcje();
+    });
+  })(jQuery);
+
+</script>
+
+
+
+
+<script type="text/javascript">var marker = { },trescDymka = '<div class="strzalka"></div><a class="icon-krzyzyk"></a><p><a id="pokaz-duza-mapa" href="#">Kliknij, aby zobaczyć więcej podobnych ofert w tej okolicy.</a></p>';zapiszIdDoSesji = function(idOgloszenie, urlDoMapyPodobnych) {var dane = {nazwa: 'ogloszenia_zaznaczone_mapa',wartosc: {ogloszenie: idOgloszenie},};jQuery.ajax({type: 'POST',url: '/ajax/modyfikacja-sesji/',data: dane,success: function() {window.location.replace(urlDoMapyPodobnych);}});};function inicjalizujMape(id) {jQuery('#mapa-duza-'+id).addClass('spin-bg');document.getElementById("id-ogloszenia-google-maps").setAttribute("name", id);var mapa = new mapaGoogla();mapa.inicjalizujMape('AIzaSyBbz0TN8qXL5GNm1taB5uz1O4AgUs2evag');}function zaladujMape() {var idZajawki = document.getElementById("id-ogloszenia-google-maps").getAttribute("name"),id_uchwytu = 'mapa-duza-'+idZajawki, mapa = new mapaGoogla(id_uchwytu),zoom = 0, lokalizacja = { }, wspolrzedne = window['wspolrzedne'];if (undefined !== wspolrzedne['o'+idZajawki].x && undefined !== wspolrzedne['o'+idZajawki].y&& 0 !== wspolrzedne['o'+idZajawki].x && 0 !== wspolrzedne['o'+idZajawki].y) {lokalizacja = new google.maps.LatLng(wspolrzedne['o'+idZajawki].x, wspolrzedne['o'+idZajawki].y);if (undefined !== wspolrzedne['o'+idZajawki].zoom) {zoom = (wspolrzedne['o'+idZajawki].zoom == 4 || wspolrzedne['o'+idZajawki].zoom == 0) ? 14 : wspolrzedne['o'+idZajawki].zoom;}setTimeout(function(){mapa.zaladujMape(lokalizacja, zoom, !1);marker = mapa.ustawMarker(lokalizacja, false);setTimeout(function(){mapa.dodajDymek(marker, trescDymka);},500);},300);} else {var callback = function(lokalizacja) {mapa.zaladujMape(lokalizacja, geolokalizacja.ustal_zoom(wspolrzedne['o'+idZajawki].adres), false);marker = mapa.ustawMarker(lokalizacja, false);setTimeout(function(){mapa.dodajDymek(marker, trescDymka);},500);};geolokalizacja.lokalizuj(wspolrzedne['o'+idZajawki].adres, callback);}jQuery('#'+id_uchwytu).removeClass('spin-bg');jQuery('#'+id_uchwytu).on('click', 'a#pokaz-duza-mapa', function(e) {e.preventDefault();var idOgloszenie = { };idOgloszenie[wspolrzedne['o'+idZajawki].idKategoria] = wspolrzedne['o'+idZajawki].idOgloszenie;zapiszIdDoSesji(idOgloszenie, wspolrzedne['o'+idZajawki].urlDoMapyPodobnych);});}</script>
+
+  <div id="adOceanLink1Lista">
+    <script type="text/javascript">
+      (function ($) {
+        var konf = {"name":"link1Lista","hideWhenEmpty":true},
+            cscr = document.currentScript || (function() {
+              var scrs = document.getElementsByTagName('script');
+                return scrs[scrs.length - 1];
+            })();
+
+        $.fn.insertAd({ placement: konf }, cscr);
+
+        // funkcja sprawdza po 3sek co 1sek czy element juz istnieje, jak go znajdzie, przestaje sprawdzać i dolacza link do zajawek
+        setTimeout(function(){
+          var checkExist = setInterval(function() {
+            var $adOceanLink1Lista = $('#adOceanLink1Lista a');
+
+            if ($adOceanLink1Lista.length) {
+              $(".adSlotLink1Lista").append($adOceanLink1Lista);
+              clearInterval(checkExist);
+            }
+          }, 1000);
+        }, 3000);
+      })(jQuery);
+    </script>
+  </div>
+
+            <script language="javascript" type="text/javascript">
+        
+        <!-- // <![CDATA[
+        var gwpClientId = "gratka_dom",
+            gwpPxInfo = {action : "view"};
+
+        /* START sekcja stała, nie parametryzowana */
+        var gwpAction = (typeof gwpPxInfo != "undefined" && gwpPxInfo != null && typeof   gwpPxInfo.action != "undefined" && gwpPxInfo.action != null) ? gwpPxInfo.action: 'undefined',
+            gwpReferer = escape(new String(window.location).substring(0,250)),
+            tt = Math.round(Math.random()*1E10),
+            requestParams = {
+                gwpAction : gwpAction,
+                gwpReferer : gwpReferer,
+                tt : tt,
+                gwpClientId : gwpClientId
+            };
+
+        (function (d, s, id, u, x) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.async = true;
+            x.tt = Math.round(Math.random() * 1E10);
+            js.src = "//px.wp.pl//" + u + "?" + (function (o, p) {
+                for (p in x)
+                    if (typeof x[p] === "object")
+                        o.push(p + '=' + escape(JSON.stringify(x[p])));
+                    else
+                        o.push(p + '=' + escape(x[p]));
+                return o.join("&");
+            }([]));
+
+                fjs.parentNode.insertBefore(js, fjs);
+
+        }(document, "script", "gwppx", "exdotdynamic/", requestParams));
+        /* END sekcja stała, nie parametryzowana */
+
+        // ]]> -->
+        
+        </script>
+    
+<div class="row">
+  <div class="columns">
+    <div id="powiadomienie-mail">
+  <div class="small-10 small-centered columns icon-powiadomienia obserwujKontener">
+    <form action="/powiadomienia/dodaj.html" method="post" id="autoposzukiwacz">
+      <input name="adres" value="wielkopolskie,poznan,rataje,60,80,3,6,1,1,dz,mo,md,lpo,ld,po,pd" type="hidden">
+      <input name="nazwa_formularza" value="mieszkania-sprzedam" type="hidden">
+      <input type="hidden" name="zapis" value="Zapisz">
+      <h4>Powiadomimy Cię na e-mail o nowych podobnych ofertach</h4>
+      <div class="komunikat blad schowaj">Zaznaczenie zgody regulaminowej jest wymagane.</div>
+      <div class="pola">
+        <input name="email" id="wpisz-email" type="text" value="" placeholder="Podaj swój e-mail...">
+        <input type="submit" id="powiadamiacz-wyslij" title="Powiadom o podobnych ogłoszeniach" class="btn przycisk-aktywuj" value="Powiadamiaj" data-tracker="/onclick/lista-ogloszen/formularz-dol/powiadom-o-podobnych" data-gtm="dodaj-powiadomienie-email">
+      </div>
+      <div id="lista-zgoda" class="schowaj clear lista-zgoda">
+        <small>Kliknięcie <i>Powiadamiaj</i> oznacza akceptację poniższej zgody. Podany adres email wykorzystamy do dostarczenia wybranych powiadomień.</small>
+        <input type="checkbox" id="autoposzukiwacz-chbox-dol" name="zgoda" checked>
+        <label for="autoposzukiwacz-chbox-dol">
+        Zapoznałem/am się z treścią <a target="_blank" href="http://ofirmie.gratka.pl/regulamin/">regulaminu</a>, i akceptuję jego zapisy, w tym informujące o fakcie i zakresie przetwarzania moich danych osobowych przez właściciela serwisów Gratka.pl i Alegratka.pl - firmę Polska Press Sp. z o.o. z siedzibą w Warszawie.</label>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+  </div>
+</div><div id="posrednicy" class="row">
+  <div class="small-12 columns">
+    <div class="boks">
+      <form method="post" id="form-pytanie-posrednik">
+        <h2>Chcesz wiedzieć więcej? Skontaktuj się z lokalnym pośrednikiem!</h2>
+                  <ul id="lista-posrednikow" class="small-block-grid-1 large-block-grid-3 checkbox">
+                          <li>
+                <input id="posrednik-0" type="checkbox" checked="checked" value="7260376" name="id_posrednik[]" class="posrednicy-id">
+                <label for="posrednik-0">
+                  <span class="zdj">
+                                          <img src="https://d-gd.ppstatic.pl/k/r/1/b2/76/56cee814423e0.jpg" alt="Pośrednik Przemysław Stasiak">
+                                      </span>
+                </label>
+                <p class="dane">
+                  <a href="/posrednik/poznan/biuro-nieruchomosci/stasiak-przemyslaw/7260376.html" title="Obejrzyj profil pośrednika Przemysław Stasiak" data-tracker="/onclick/lista-posrednicy-formularz/zajawka" data-gtm="posrednik-zajawka">
+                    <span>Przemysław Stasiak</span>
+                                      </a>
+                </p>
+                <p class="tel telObciety">
+                  tel.: <b>501 20...</b> <span class="pokazNumer btn btnMain xs" data-tracker="/onclick/lista-posrednicy-formularz/pokaz-telefon" data-gtm="formularz-pokaz-telefon" data-gemius="pokaz-telefon-listing">Pokaż&nbsp;numer</span>
+                </p>
+                <p class="tel pokazTel telCaly schowaj">
+                  tel.: <b>501 201 846</b>
+                </p>
+              </li>
+                          <li>
+                <input id="posrednik-1" type="checkbox" checked="checked" value="6545863" name="id_posrednik[]" class="posrednicy-id">
+                <label for="posrednik-1">
+                  <span class="zdj">
+                                          <img src="https://d-gd.ppstatic.pl/k/r/1/0b/3d/5536d21a11a04.jpg" alt="Pośrednik Bogusz Podgórski">
+                                      </span>
+                </label>
+                <p class="dane">
+                  <a href="/posrednik/poznan/biuro-nieruchomosci/podgorski-bogusz/6545863.html" title="Obejrzyj profil pośrednika Bogusz Podgórski" data-tracker="/onclick/lista-posrednicy-formularz/zajawka" data-gtm="posrednik-zajawka">
+                    <span>Bogusz Podgórski</span>
+                                      </a>
+                </p>
+                <p class="tel telObciety">
+                  tel.: <b>793 00...</b> <span class="pokazNumer btn btnMain xs" data-tracker="/onclick/lista-posrednicy-formularz/pokaz-telefon" data-gtm="formularz-pokaz-telefon" data-gemius="pokaz-telefon-listing">Pokaż&nbsp;numer</span>
+                </p>
+                <p class="tel pokazTel telCaly schowaj">
+                  tel.: <b>793 001 111</b>
+                </p>
+              </li>
+                          <li>
+                <input id="posrednik-2" type="checkbox" checked="checked" value="237974" name="id_posrednik[]" class="posrednicy-id">
+                <label for="posrednik-2">
+                  <span class="zdj">
+                                          <img src="https://d-gd.ppstatic.pl/k/r/1/15/88/524187b76e96a.jpg" alt="Pośrednik Jacek Bojarski">
+                                      </span>
+                </label>
+                <p class="dane">
+                  <a href="/posrednik/poznan/biuro-nieruchomosci/bojarski-jacek/237974.html" title="Obejrzyj profil pośrednika Jacek Bojarski" data-tracker="/onclick/lista-posrednicy-formularz/zajawka" data-gtm="posrednik-zajawka">
+                    <span>Jacek Bojarski</span>
+                                      </a>
+                </p>
+                <p class="tel telObciety">
+                  tel.: <b>663-82...</b> <span class="pokazNumer btn btnMain xs" data-tracker="/onclick/lista-posrednicy-formularz/pokaz-telefon" data-gtm="formularz-pokaz-telefon" data-gemius="pokaz-telefon-listing">Pokaż&nbsp;numer</span>
+                </p>
+                <p class="tel pokazTel telCaly schowaj">
+                  tel.: <b>663-822-112</b>
+                </p>
+              </li>
+                      </ul>
+                <div class="textC marginG">
+          <a class="btn duzy pokazFormularz">Chcę wysłać<span class="ukryj"> zapytanie</span> do wybranych<span class="ukryj"> pośredników</span></a>
+        </div>
+
+        <div class="row">
+            <div class="small-12 large-10 push-1 columns">
+                <div class="komunikat blad schowaj" id="komunikat-blad"></div>
+            </div>
+        </div>
+        <div id="pytanie-posrednik" class="schowaj">
+          <div class="row">
+            <div class="small-12 large-10 push-1 columns">
+              <p class="schowaj">
+                <input type="hidden" value="posrednik_pytanie" name="formularz">
+                <input type="hidden" name="id_uzytkownik" value="">
+                <input type="hidden" name="id_kategoria" value="5001">
+                <input type="hidden" name="kryteria_wyszukiwania_tekst" value="Mieszkania sprzedam, woj. wielkopolskie, Poznań, o powierzchni od 60 m<sup>2</sup>, do 80 m<sup>2</sup>,">
+                <input type="hidden" name="id_typ" value="2">
+              </p>
+
+              <div class="row">
+                <div class="small-12 large-4 columns">
+                  <label for="email2">Twój e-mail</label>
+                  <input id="email2" name="nadawca" type="text" placeholder="Twój e-mail" value="">
+                </div>
+                <div class="small-12 large-4 columns">
+                  <label for="telefon2">Twój numer telefonu</label>
+                  <input id="telefon2" name="numer_telefonu" type="text" placeholder="Twój numer telefonu" value="">
+                </div>
+                <div class="small-12 large-4 columns">
+                  <label for="imie2">Twoje imię i nazwisko</label>
+                  <input id="imie2" name="imie" type="text" placeholder="Twoje imię i nazwisko" value="">
+                </div>
+                <div class="small-12 columns">
+                  <label for="message2">Treść wiadomości</label>
+                  <textarea id="message2" name="tresc" class="trescPytania" placeholder="Treść wiadomości">Jestem zainteresowany/a Pana/i ofertami sprzedaży mieszkań dla lokalizacji: woj. wielkopolskie, Poznań,</textarea>
+                  <span class="licznik right" id="message2-licznik"></span>
+                </div>
+                <div class="small-12 columns checkbox podgladDeaktywuj">
+                  <input type="checkbox" name="zgoda_osobowa" id="zgoda-osobowa" value="">
+                  <label for="zgoda-osobowa">Wyrażam jednorazową zgodę, w celu zadania pytania o tę konkretną ofertę, na przekazanie moich danych osobowych podanych powyżej, ogłoszeniodawcy o którym mowa powyżej, przez Polska Press Sp. z o.o. w Warszawie. Informację o tym kto jest Administratorem Danych Osobowych znajdziesz w <a href="http://ofirmie.gratka.pl/regulamin/" target="_blank">regulaminie</a>.</label>
+                </div>
+              </div>
+              <div class="marginG textC">
+                <input type="hidden" name="wyslij" value="1">
+                <input type="button" id="wyslij" value="Wyślij zapytanie do wybranych pośredników" class="btn duzy">
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+(function ($) {
+    $(function() {
+        var max_liczba_znakow = '1000',
+            komunikaty = $('#komunikat-blad'),
+            statyOdslonaWyslane = !1,
+            wyslijTracker = function(adres, wartosc) {
+                var gaLink = $('<a href="#"></a>');
+                GR('oTrackEvents', [{ elements: gaLink.toArray(), href: adres, value: wartosc}]);
+                gaLink.click();
+            },
+            dodajBlad = function(wiadomosc) {
+                komunikaty.removeClass('schowaj');
+                if (komunikaty.html().length > 0) {
+                    komunikaty.html(komunikaty.html() + '<br>');
+                }
+                komunikaty.html(komunikaty.html() + wiadomosc);
+            },
+            pokazUkrytyTelefon = function(rodzic) {
+                rodzic.addClass('schowaj');
+                rodzic.parent().find('.telCaly').fadeTo('slow', 1);
+            },
+            sprawdzWidocznoscElementu = function(e) {
+                var docViewTop = $(window).scrollTop(),
+                    docViewBottom = docViewTop + $(window).height(),
+                    elemTop = $(e).offset().top,
+                    elemBottom = elemTop + $(e).height();
+
+                return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+            },
+            wyslijStatyOdslon = function() {
+                if (sprawdzWidocznoscElementu($('#lista-posrednikow'))) {
+                    $('.posrednicy-id').each(function(){
+                        $.get('/ajax/formularz-kontakt/posrednik.html', { id_uzytkownik: $(this).val(), rodzaj: 'odslona'});
+                    });
+                    statyOdslonaWyslane = !0;
+                }
+            };
+
+        $('#email2, #telefon2, #imie2').placeholder();
+        $('#message2').charCounter('message2-licznik', max_liczba_znakow, { errorClass: 'licznikBlad'});
+
+        $('.pokazNumer').click(function() {
+            pokazUkrytyTelefon($(this).parent());
+        });
+
+        function skrocTekstBtn() {
+            if (document.body.offsetWidth < 528) {
+                $('#wyslij').val('Wyślij zapytanie');
+            } else {
+                $('#wyslij').val('Wyślij zapytanie do wybranych pośredników');
+            }
+        }
+
+        $('.pokazFormularz').click(function() {
+            skrocTekstBtn();
+            $('#pytanie-posrednik').removeClass('schowaj');
+            $(this).hide();
+        });
+
+        $(window).resize(function(){
+            skrocTekstBtn();
+        });
+
+        $('#wyslij').click(function() {
+            wyczyscBledy();
+            obsluzBledy();
+        });
+
+        wyslijStatyOdslon();
+
+        $(window).scroll(function() {
+            if (!statyOdslonaWyslane)
+                wyslijStatyOdslon();
+        });
+
+        var wyczyscBledy = function() {
+            $('#email2, #imie2, #telefon2, label[for="zgoda-osobowa"]').removeClass('niewypelnione');
+            $('#komunikat-blad').html('').addClass('blad').removeClass('sukces').addClass('schowaj');
+        };
+
+        var obsluzBledy = function() {
+            if (!$('input[name=zgoda_osobowa]').is(':checked')) {
+                dodajBlad('Zgoda na przetwarzanie danych osobowych jest wymagana.');
+                $('input[name=zgoda_osobowa]').parent().addClass('niewypelnione');
+            }
+            $('#email2, #message2').each(function() {
+                $(this).removeAttr('class');
+            });
+            if ($('#email2').val().length === 0) {
+                dodajBlad('Wypełnij pole e-mail.');
+                $('#email2').addClass('niewypelnione');
+            }
+            if ($('#message2').val().length === 0) {
+                dodajBlad('Pole Treść wiadomości jest wymagane.');
+                $('#message2').addClass('niewypelnione');
+            }
+            if ($('#komunikat-blad').html() === '') {
+                $.post('/ajax/formularz-kontakt/partner/wyslij.html', $('#form-pytanie-posrednik').serialize())
+                    .done(function(data){
+                        if (data !== 'OK') {
+                            dodajBlad(data);
+                        } else {
+                            wyslijTracker('/onclick/lista-posrednicy-formularz/wyslij');
+                            komunikaty.removeClass('schowaj').removeClass('blad').addClass('sukces').html('Wiadomość została wysłana.');
+                            $('.posrednicy-id').each(function(){
+                                if ($(this).is(':checked')) {
+                                    $.get('/ajax/formularz-kontakt/posrednik.html', { id_uzytkownik: $(this).val(), rodzaj: 'wyslij'});
+                                }
+                            });
+                            $('#pytanie-posrednik').remove();
+                        }
+                    });
+            }
+            $('html, body').delay(800).animate({ scrollTop: $('#lista-posrednikow').offset().top - 45}, 500);
+        };
+    });
+})(jQuery);
+</script>
+  <div id="agencja-poleca" class="row">
+    <div class="small-12 columns podobneOferty">
+                              <header class="podnaglowek">
+              <h2>Agencja <a href="http://primavente.gratka.pl">Primavente Nieruchomości</a> poleca</h2>
+            </header>
+            <ul>
+                    <li class="podobneKafelek">
+            <a data-tracker="/onclick/lista-ogloszen/agencja-poleca" href="http://dom.gratka.pl/kliki/?id=38181&amp;id_ogloszenie=72989343&amp;rodzaj=102">
+              <span class="zdj bezZdj">
+                                <img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/0c/c9/72989343_48906571_mieszkanie-poznan-grunwald_w.jpg" class="lazy " alt="Poznań, Grunwald"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/0c/c9/72989343_48906571_mieszkanie-poznan-grunwald_w.jpg" class="" alt="Poznań, Grunwald"></noscript>
+              </span>
+
+              <p>
+                <i>Mieszkanie Poznań Grunwald</i>
+                <span class="duzeLitery">112</span>&nbsp;m<sup>2</sup>, <span class="duzeLitery">2</span>&nbsp;piętro, <span class="duzeLitery">2012</span>&nbsp;rok&nbsp;budowy<br>                                  <b class="jakLink">980 000 <i>zł</i></b>
+                              </p>
+            </a>
+          </li>
+                            <li class="podobneKafelek">
+            <a data-tracker="/onclick/lista-ogloszen/agencja-poleca" href="http://dom.gratka.pl/kliki/?id=38181&amp;id_ogloszenie=72989369&amp;rodzaj=102">
+              <span class="zdj bezZdj">
+                                <img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/cc/a8/72989369_50191987_mieszkanie-poznan-malta-poznan-malta-ul-mogilenska_w.jpg" class="lazy " alt="Poznań, Malta / Poznań, Malta"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/cc/a8/72989369_50191987_mieszkanie-poznan-malta-poznan-malta-ul-mogilenska_w.jpg" class="" alt="Poznań, Malta / Poznań, Malta"></noscript>
+              </span>
+
+              <p>
+                <i>Mieszkanie Poznań Malta / Poznań, Malta, ul. Mogileńska</i>
+                <span class="duzeLitery">3</span>&nbsp;pokoje, <span class="duzeLitery">54,20</span>&nbsp;m<sup>2</sup>, parter, <span class="duzeLitery">2009</span>&nbsp;rok&nbsp;budowy<br>                                  <b class="jakLink">409 000 <i>zł</i></b>
+                              </p>
+            </a>
+          </li>
+                            <li class="podobneKafelek">
+            <a data-tracker="/onclick/lista-ogloszen/agencja-poleca" href="http://dom.gratka.pl/kliki/?id=38181&amp;id_ogloszenie=72989345&amp;rodzaj=102">
+              <span class="zdj bezZdj">
+                                <img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/27/03/72989345_48906603_mieszkanie-poznan-grunwald-ul-kasprzaka_w.jpg" class="lazy " alt="Poznań, Grunwald"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/27/03/72989345_48906603_mieszkanie-poznan-grunwald-ul-kasprzaka_w.jpg" class="" alt="Poznań, Grunwald"></noscript>
+              </span>
+
+              <p>
+                <i>Mieszkanie Poznań Grunwald, ul. Kasprzaka</i>
+                <span class="duzeLitery">2</span>&nbsp;pokoje, <span class="duzeLitery">60,49</span>&nbsp;m<sup>2</sup>, <span class="duzeLitery">3</span>&nbsp;piętro z&nbsp;4, <span class="duzeLitery">1960</span>&nbsp;rok&nbsp;budowy<br>                                  <b class="jakLink">309 000 <i>zł</i></b>
+                              </p>
+            </a>
+          </li>
+                            <li class="podobneKafelek">
+            <a data-tracker="/onclick/lista-ogloszen/agencja-poleca" href="http://dom.gratka.pl/kliki/?id=38181&amp;id_ogloszenie=72989341&amp;rodzaj=102">
+              <span class="zdj bezZdj">
+                                <img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/91/e0/72989341_48906539_mieszkanie-poznan-nowe-miasto-ul-pobiedziska_w.jpg" class="lazy " alt="Poznań, Poznań / Malta, Malta Poznań"><noscript><img src=" https://d-gd.ppstatic.pl/kadry/k/r/gd-ogl/91/e0/72989341_48906539_mieszkanie-poznan-nowe-miasto-ul-pobiedziska_w.jpg" class="" alt="Poznań, Poznań / Malta, Malta Poznań"></noscript>
+              </span>
+
+              <p>
+                <i>Mieszkanie Poznań Poznań / Malta, Malta Poznań, ul. Malta</i>
+                <span class="duzeLitery">3</span>&nbsp;pokoje, <span class="duzeLitery">82,70</span>&nbsp;m<sup>2</sup>, <span class="duzeLitery">3</span>&nbsp;piętro z&nbsp;3, <span class="duzeLitery">2001</span>&nbsp;rok&nbsp;budowy<br>                                  <b class="jakLink">479 000 <i>zł</i></b>
+                              </p>
+            </a>
+          </li>
+              </ul>
+    </div>
+  </div>
+
+  <div id="inwestycje-polecane" class="row">
+    <div class="small-12 columns podobneOferty">
+      <header class="podnaglowek">
+        <h2>Inwestycje polecane</h2>
+      </header>
+      <ul class="dol">
+                                      <li class="podobneKafelek">
+                        <a data-tracker="/onclick/lista-ogloszen/inwestycje-polecane" data-gtm="inwestycje-polecane" href="http://dom.gratka.pl/kliki/?id=3610&amp;rodzaj=101&amp;url=http://dom.gratka.pl/inwestycja/poznan/skaland/nowe-koninko/3610.html" title="Nowe Koninko">
+              <span class="zdj bezZdj">
+                                <img src="https://s-gd.ppstatic.pl/o/_blank.png" data-original="https://d-gd.ppstatic.pl/kadry/ogl/32/3b/20775-1928727845.jpg" class="lazy " alt="Nowe Koninko Poznań, Szczepankowo, "><noscript><img src=" https://d-gd.ppstatic.pl/kadry/ogl/32/3b/20775-1928727845.jpg" class="" alt="Nowe Koninko Poznań, Szczepankowo, "></noscript>
+              </span>
+
+              <p>
+                <i class="jakLink">Nowe Koninko</i>
+                Poznań, Szczepankowo<br>                Termin realizacji: kwartał I 2017<br>                <b>Skaland sp. z o.o. sp. komandytowa</b>
+              </p>
+            </a>
+          </li>
+              </ul>
+    </div>
+  </div>
+
+<div class="row">
+  <section id="box-polecane" class="schowaj small-12 columns">
+    <ul id="box-polecane-dynamiczne" class="zakladkiDynamiczne hide-for-small">
+      <li><a href="#zakladka-agencja">Agencja poleca</a></li>
+      <li class="nieaktywna"><a href="#zakladka-inwestycja">Inwestycje polecane</a></li>
+    </ul>
+    <div id="zakladka-agencja" class="widoczny zakladkaKopia boks clearOver"></div>
+    <div id="zakladka-inwestycja" class="schowaj zakladkaKopia boks clearOver"></div>
+  </section>
+</div>
+
+
+<script type="text/javascript">
+    (function ($) {
+        if($('#inwestycje-polecane').length != 0 && $('#agencja-poleca').length != 0) {
+            $("#agencja-poleca").appendTo("#zakladka-agencja");
+            $("#inwestycje-polecane").appendTo("#zakladka-inwestycja");
+            $("#zakladka-inwestycja header h2").text('Polecane inwestycje deweloperów');
+            $('#box-polecane').show();
+            zakladki.inicjalizuj('box-polecane');
+        }
+    })(jQuery);
+</script>
+<script>
+  jQuery(document).ready(function() {
+    jQuery.ajax({
+      url: "http://www.gratka.pl/widget/ogloszenia",
+      type: "GET",
+      crossDomain: true,
+      contentType: "application/x-www-form-urlencoded",
+      timeout: 2000,
+      accept: "html",
+      success: function(data) {
+        jQuery("#widgetInneKat").html(data);
+      }
+    })
+  });
+</script>
+<div class="row" id="widgetInneKat"></div>                <div class="ukryjWydruk row rekOgraniczenie">
+  <div class="small-12 columns marginD textC">
+    <script type="text/javascript">
+        var konf = {"name":"dol1","hideWhenEmpty":false},
+            cscr = document.currentScript || (function() {
+              var scrs = document.getElementsByTagName('script');
+              return scrs[scrs.length - 1];
+            })();
+        jQuery.fn.insertAd({ placement: konf }, cscr);
+    </script>
+  </div>
+</div><div id="seo-linki" class="row hide-for-small">
+  <div class="seoSekcja small-12 columns">
+    <ul class="seoTaby zakladkiDynamiczne hide-for-small">
+          <li class="seoMenu " data-gtm="seo-zakladka-Typy_nieruchomosci"><a data-tracker="/onclick/seo-linki/zakladka/Typy_nieruchomosci" class="seoLink" href="#zakladka-Typy_nieruchomosci">Typy nieruchomości</a></li>
+          <li class="seoMenu nieaktywna" data-gtm="seo-zakladka-Deweloperzy"><a data-tracker="/onclick/seo-linki/zakladka/Deweloperzy" class="seoLink" href="#zakladka-Deweloperzy">Deweloperzy</a></li>
+          <li class="seoMenu nieaktywna" data-gtm="seo-zakladka-Inwestycje"><a data-tracker="/onclick/seo-linki/zakladka/Inwestycje" class="seoLink" href="#zakladka-Inwestycje">Inwestycje</a></li>
+          <li class="seoMenu nieaktywna" data-gtm="seo-zakladka-Kategorie"><a data-tracker="/onclick/seo-linki/zakladka/Kategorie" class="seoLink" href="#zakladka-Kategorie">Kategorie</a></li>
+        </ul>
+        <div id="zakladka-Typy_nieruchomosci" class="seoKontent widoczny  zakladkaKopia boks clearOver">
+      <ul>
+                <li data-gtm="seo-linki-Typy_nieruchomosci"><a data-tracker="/onclick/seo-linki/Typy_nieruchomosci" title="domy na sprzedaż Poznań Rataje"  href="/domy/poznan/rataje/">domy na sprzedaż Poznań Rataje</a></li>
+                <li data-gtm="seo-linki-Typy_nieruchomosci"><a data-tracker="/onclick/seo-linki/Typy_nieruchomosci" title="działki i grunty na sprzedaż Poznań Rataje"  href="/dzialki/poznan/rataje/">działki i grunty na sprzedaż Poznań Rataje</a></li>
+                <li data-gtm="seo-linki-Typy_nieruchomosci"><a data-tracker="/onclick/seo-linki/Typy_nieruchomosci" title="garaże na sprzedaż Poznań Rataje"  href="/garaze/poznan/rataje/">garaże na sprzedaż Poznań Rataje</a></li>
+                <li class="ostatniLink" data-gtm="seo-linki-Typy_nieruchomosci"><a data-tracker="/onclick/seo-linki/Typy_nieruchomosci" title="lokale użytkowe na sprzedaż Poznań Rataje"  href="/lokale-uzytkowe/poznan/rataje/">lokale użytkowe na sprzedaż Poznań Rataje</a></li>
+              </ul>
+    </div>
+        <div id="zakladka-Deweloperzy" class="seoKontent  schowaj zakladkaKopia boks clearOver">
+      <ul>
+                <li data-gtm="seo-linki-Deweloperzy"><a data-tracker="/onclick/seo-linki/Deweloperzy" title="mieszkania od dewelopera Akropol Poznań Rataje"  href="/inwestycje/mieszkania/poznan/rataje/akropol/">mieszkania od dewelopera Akropol Poznań Rataje</a></li>
+                <li class="ostatniLink" data-gtm="seo-linki-Deweloperzy"><a data-tracker="/onclick/seo-linki/Deweloperzy" title="mieszkania od dewelopera UWI Inwestycje Poznań Rataje"  href="/inwestycje/mieszkania/poznan/rataje/uwi-inwestycje/">mieszkania od dewelopera UWI Inwestycje Poznań Rataje</a></li>
+              </ul>
+    </div>
+        <div id="zakladka-Inwestycje" class="seoKontent  schowaj zakladkaKopia boks clearOver">
+      <ul>
+                <li data-gtm="seo-linki-Inwestycje"><a data-tracker="/onclick/seo-linki/Inwestycje" title="Górny Taras Poznań Rataje"  href="/inwestycja/poznan/dobre-domy-mtp/gorny-taras/70305765.html">Górny Taras Poznań Rataje</a></li>
+                <li data-gtm="seo-linki-Inwestycje"><a data-tracker="/onclick/seo-linki/Inwestycje" title="Malta Nowa 2 Poznań Rataje"  href="/inwestycja/poznan/uwi-inwestycje/malta-nowa-2/67251033.html">Malta Nowa 2 Poznań Rataje</a></li>
+                <li data-gtm="seo-linki-Inwestycje"><a data-tracker="/onclick/seo-linki/Inwestycje" title="Tarasy Warty Poznań Rataje"  href="/inwestycja/poznan/trico/tarasy-warty/4417.html">Tarasy Warty Poznań Rataje</a></li>
+                <li class="ostatniLink" data-gtm="seo-linki-Inwestycje"><a data-tracker="/onclick/seo-linki/Inwestycje" title="Unii Lubelskiej 12 Poznań Rataje"  href="/inwestycja/poznan/akropol/unii-lubelskiej-12/69852361.html">Unii Lubelskiej 12 Poznań Rataje</a></li>
+              </ul>
+    </div>
+        <div id="zakladka-Kategorie" class="seoKontent  schowaj zakladkaKopia boks clearOver">
+      <ul>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Mieszkania"  href="/mieszkania/">Mieszkania</a></li>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Domy"  href="/domy/">Domy</a></li>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Pokoje"  href="/pokoje-do-wynajecia/lista/">Pokoje</a></li>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Działki i grunty"  href="/dzialki-grunty/">Działki i grunty</a></li>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Garaże"  href="/garaze/">Garaże</a></li>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Lokale użytkowe"  href="/lokale-uzytkowe/">Lokale użytkowe</a></li>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Inwestycje"  href="/inwestycje/">Inwestycje</a></li>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Firmy i usługi"  href="/firmy-i-uslugi/">Firmy i usługi</a></li>
+                <li data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Porady"  href="http://mieszkam.gratka.pl">Porady</a></li>
+                <li class="ostatniLink" data-gtm="seo-linki-Kategorie"><a data-tracker="/onclick/seo-linki/Kategorie" title="Informacje z branży"  href="/informacje-z-branzy/">Informacje z branży</a></li>
+              </ul>
+    </div>
+      </div>
+</div>
+
+<script type="text/javascript">
+(function ($) {
+    $(function() {
+        var region = 'wielkopolskie',
+            id_region = '15',
+            miejscowosc = 'poznan',
+            nazwaKategorii = 'mieszkania_sprzedam',
+            idKategorii = '5001',
+            limit = '20',
+            offset = '0',
+            maksymalnyNumerZajawki = '100'
+        ;
+
+        /**********************************/
+        /****** definiowanie funkcji ******/
+        /**********************************/
+
+        var wyslijTracker = function(adres, wartosc) {
+            var gaLink = jQuery('<a href="#"></a>');
+            GR('oTrackEvents', [{elements: gaLink.toArray(), href: adres, value: wartosc}]);
+            gaLink.click();
+        }
+
+        var ustawCiachoPozycji = function (nazwa, wartosc) {
+            GR('ustawCookie', nazwa, wartosc, 60, '/');
+        }
+
+        var dopelnijZerami = function(wartosc) {
+            if (wartosc < maksymalnyNumerZajawki) {
+                wartosc = ('000'+wartosc).slice(-3);
+            }
+            return wartosc;
+        }
+
+        var obliczPozycje = function(element) {
+            return dopelnijZerami(offset*limit + element.data('pozycja'));
+        };
+
+        var obsluzKlikniecia = function() {
+            $('#lista-ogloszen li.linkDoKarty').each(function () {
+                $(this).one('click', function() {
+                    if (obliczPozycje($(this)) <= maksymalnyNumerZajawki) {
+                        wyslijTracker(
+                            '/pozycja/'+obliczPozycje($(this))+'|'+nazwaKategorii+'|'+region+'|'+miejscowosc+'/lista-klik/',
+                            $(this).data('punkty-wyroznienia')
+                        );
+                        ustawCiachoPozycji(
+                            idKategorii+'-'+$(this).attr('id').replace('lista-wiersz-', ''),
+                            '/pozycja/'+obliczPozycje($(this))+'|'+nazwaKategorii+'|'+region+'|'+miejscowosc
+                        );
+                    };
+               });
+            });
+        };
+
+        /**********************************/
+        /****** wykonywanie funkcji *******/
+        /**********************************/
+        obsluzKlikniecia();
+
+
+  
+        /**********************************/
+        /****** monitoring pozycji ********/
+        /**********************************/
+        var pozycje_stare = [];
+
+        function monitorujPozycje() {
+            var pozycje_widoczne = [],
+                pozycje_nowe = [];
+
+            $('.linkDoKarty').each(function(){
+                if ($(this).visible(true)) {
+                    var pozycja = $(this).attr('data-pozycja');
+                    if (pozycja) {
+                        var pozycja_dane = {},
+                            aktualna_pozycja = offset * limit + parseInt(pozycja);
+                        if (aktualna_pozycja <= maksymalnyNumerZajawki) {
+                            pozycja_dane.pozycja = aktualna_pozycja;
+                            pozycja_dane.punkty = parseInt($(this).attr('data-punkty-wyroznienia'));
+                            pozycje_widoczne[aktualna_pozycja] = pozycja_dane;
+                        }
+                   }
+                }
+            });
+
+            $(pozycje_widoczne).each(function(klucz, wartosc){
+                if (wartosc && $.inArray(klucz, pozycje_stare) == -1) {
+                    pozycje_nowe.push(wartosc);
+                    pozycje_stare.push(klucz);
+                }
+            });
+
+            if (pozycje_nowe.length) {
+                var dane = {};
+                dane.id_kategoria = idKategorii;
+                dane.id_region = id_region;
+                dane.miejscowosc = miejscowosc;
+                dane.zajawki = pozycje_nowe;
+                if (!$.isEmptyObject(dane)) {
+                    $.get('/dom-statystyki/lista/', dane);
+                }
+            }
+         }
+
+        setInterval(monitorujPozycje, 500);
+
+  
+    });
+})(jQuery);
+</script>
+
+    </div>
+    <div id="footer-main" class="row">
+    <div class="columns">
+                        <div class="info">
+    <p><span>&copy; 2000-2017</span> Polska Press Sp. z o.o. <span>Wszelkie prawa zastrzeżone.</span></p>
+    <ul class="navigation">
+        <li>
+            <a href="http://polskapress.pl/pl" title="O firmie" data-gtm="stopka: o firmie">O firmie</a>
+        </li>
+        <li>
+            <a href="http://ofirmie.gratka.pl" title="Regulamin, Polityka prywatności, Kontakt" data-gtm="stopka: regulamin">Regulamin, Polityka prywatności, Kontakt</a>
+        </li>
+                <li>
+            <a href="http://dom.gratka.pl/mapa-serwisu/" title="Mapa kategorii" data-gtm="stopka: mapa serwisu">Mapa kategorii</a>
+        </li>
+                        <li>
+            <a href="http://www.gratka.pl/konto/sugester/" title="Napisz sugestię" target="_blank" id="sugester" data-gtm="stopka: sugester">Napisz sugestię</a>
+        </li>
+            </ul>
+</div>
+
+                
+        <script type="text/javascript">
+    (function ($, tr) {
+        $('[data-tracker]').each(function () {
+            var elem = $(this);
+            tr.push({ elements: elem, href : elem.attr('data-tracker')});
+            elem.removeAttr('data-tracker');
+        });
+    })(jQuery, oG_OSA.tracking);
+
+    GR('oTrackEvents', oG_OSA.tracking);
+
+    GR('DOMReady', function() {
+        GR('o_linki_zewnetrzne', new RegExp('gratka.pl', 'i'));
+        jQuery("img.lazy").each(function () {
+            var element = jQuery(this);
+            element.parent().addClass('spin');
+            element.removeClass('lazy').lazyload({
+                effect:"fadeIn",
+                failure_limit: 100,
+                threshold: 100,
+                appear: function(){
+                    element.parents('.spin').addClass('spin-bg');
+                },
+                load: function() {
+                    element.parents('.spin-bg').removeClass('spin-bg');
+                },
+            });
+        });
+    });
+</script>
+
+    </div>
+</div><script type="text/javascript">
+  
+</script>
+<div class="cookieContainer">
+  <div class="cookieTooltip">
+    <span class="tooltipZamknij" title="Zamknij"></span>
+    <div class="cookieTekst">
+      <p class="cookieTytul">Monitorujemy anonimowo aktywność na stronie, korzystamy z cookies i local storage.</p>
+      <p>Bez zmiany ustawień pliki są zapisywane na urządzeniu. Więcej przeczytasz <a href="http://ofirmie.gratka.pl/polityka-prywatnosci" rel="external">tutaj</a>.</p>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  
+      (function ($) {
+        $('.tooltipZamknij').click(function () {
+          var data = new Date();
+          data.setDate(data.getDate() + 365);
+          data = data.toUTCString();
+          document.cookie = 'polityka_prywatnosci_cookies =true; expires=' + data + '; path = /';
+          $('.cookieTooltip').fadeOut(400);
+        });
+      })(jQuery);
+  
+</script>
+<!-- Google Code for PP 30 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1014071205;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "a0vPCKOO2QEQpf_F4wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+
+<div class="remarketing">
+<script type="text/javascript">
+(function() {
+    var scriptUrl = '//www.googleadservices.com/pagead/conversion.js';
+    if (window.jQuery) {
+        jQuery.ajax({
+            url: scriptUrl,
+            dataType: 'script',
+            cache: true
+        });
+    } else {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = scriptUrl;
+        document.getElementsByTagName('head')[0].appendChild(script);
+    }
+})();
+</script>
+
+</div>
+
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1014071205/?label=a0vPCKOO2QEQpf_F4wM&amp;guid=ON&amp;script=0">
+    </div>
+</noscript>
+  </body>
+</html>
