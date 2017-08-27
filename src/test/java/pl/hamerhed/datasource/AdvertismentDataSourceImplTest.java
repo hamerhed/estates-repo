@@ -22,14 +22,16 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import pl.hamerhed.TestConfig;
 import pl.hamerhed.datasource.AdvertismentsDataSource;
+import pl.hamerhed.domain.AddressLink;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes=TestConfig.class)
 @ActiveProfiles(profiles="test")
+//TODO przepisac klase testow na nowy typ danych
 public class AdvertismentDataSourceImplTest {
 	
 	@Autowired
-	private AdvertismentsDataSource<String> stringAdvertismentDataSource;
+	private AdvertismentsDataSource<AddressLink> stringAdvertismentDataSource;
 	
 	@Before
 	public void setUp(){
@@ -45,7 +47,11 @@ public class AdvertismentDataSourceImplTest {
 	
 	@Test(expected = UnsupportedOperationException.class)
 	public void testUnmodifiableIterator(){
-		List<String> list = Arrays.asList("www.link1.pl", "www.link2.pl", "www.link3.pl");
+		List<AddressLink> list = Arrays.asList(new AddressLink("www.link1.pl", null, new String[]{}),
+												new AddressLink("www.link2.pl", null, new String[]{}),
+												new AddressLink("www.link3.pl", null, new String[]{}));
+		//uwaga sprawdzane na etapie kompilacji nie runtime, wiec takie podstawienia przechodza!!!
+		//jak to obejsc bo testy nie maja sensu? Pilnowac podstawienia danych?
 		Whitebox.setInternalState(stringAdvertismentDataSource, "internalData", list);
 		
 		stringAdvertismentDataSource.iterator().remove();
@@ -53,13 +59,15 @@ public class AdvertismentDataSourceImplTest {
 	
 	@Test
 	public void testNotEmptyIterator(){
-		List<String> list = Arrays.asList("www.link1.pl", "www.link2.pl", "www.link3.pl");
+		List<AddressLink> list = Arrays.asList(new AddressLink("www.link1.pl", null, new String[]{}),
+												new AddressLink("www.link2.pl", null, new String[]{}),
+												new AddressLink("www.link3.pl", null, new String[]{}));
 		Whitebox.setInternalState(stringAdvertismentDataSource, "internalData", list);
 		
-		AdvertismentsDataSource<String> spy = spy(stringAdvertismentDataSource);
+		AdvertismentsDataSource<AddressLink> spy = spy(stringAdvertismentDataSource);
 				
 		assertNotNull(spy.iterator());
-		Iterator<String> iterator = spy.iterator();
+		Iterator<AddressLink> iterator = spy.iterator();
 		int count = 0;
 		while(iterator.hasNext()){
 			assertTrue(list.contains(iterator.next()));
@@ -77,13 +85,15 @@ public class AdvertismentDataSourceImplTest {
 	
 	@Test(expected = UnsupportedOperationException.class)
 	public void testNonEmptyCollection(){
-		List<String> list = Arrays.asList("www.gratka.pl/1/2/3", "www.gratka.pl/5/6/7", "http://www.gratka.pl/789");
+		List<AddressLink> list = Arrays.asList(new AddressLink("www.gratka.pl/1/2/3", null, new String[]{}),
+												new AddressLink("www.gratka.pl/5/6/7", null, new String[]{}),
+												new AddressLink("http://www.gratka.pl/789", null, new String[]{}));
 		Whitebox.setInternalState(stringAdvertismentDataSource, "internalData", list);
 		
 		assertNotNull(stringAdvertismentDataSource.getSources());
 		assertEquals(list.size(), stringAdvertismentDataSource.getSources().size());
 		
-		for (String item : list) {
+		for (AddressLink item : list) {
 			assertTrue(stringAdvertismentDataSource.getSources().contains(item));
 		}
 		
