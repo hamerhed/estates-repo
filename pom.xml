@@ -5,6 +5,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   
+  <repositories>
+    <repository>
+        <id>maven-central</id>
+        <url>http://repo1.maven.org/maven2</url>
+    </repository>
+    </repositories>
+
   <parent>
   	<groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
@@ -14,12 +21,15 @@
   <properties>
   	<java.version>1.8</java.version>
   	 <start-class>pl.hamerhed.Application</start-class>
+  	 <docker.image.prefix>hamerhed</docker.image.prefix>
+  	 <maven.test.skip>${test.skip}</maven.test.skip>
+  	  <dependency.locations.enabled>false</dependency.locations.enabled>
   </properties>
     
    <build>
-   
+   		<outputDirectory>target/classes</outputDirectory>
    		<filters>
-   			<filter>src/properties/profiles/${app.config}.properties</filter>
+   			<filter>${project.basedir}/src/properties/profiles/${app.config}.properties</filter>
         </filters>
         
    		<resources>
@@ -39,17 +49,85 @@
             </plugin>
             
             <plugin>
+		        <groupId>org.apache.maven.plugins</groupId>
+		        <artifactId>maven-compiler-plugin</artifactId>
+		        <version>3.6.1</version>
+		        <configuration>
+		          <source>${java.version}</source>
+		          <target>${java.version}</target>
+		          <encoding>UTF-8</encoding>
+		        </configuration>
+      		</plugin>
+      		
+            <plugin>
  				<groupId>org.apache.maven.plugins</groupId>
  				<artifactId>maven-resources-plugin</artifactId>
  				<version>2.3</version>
  				<configuration>
    			  			<encoding>UTF-8</encoding>
  				</configuration>
+ 				<executions>
+			          <execution>
+			            <id>copy-resources</id>
+			            <phase>compile</phase>
+			            <goals>
+			              <goal>copy-resources</goal>
+			            </goals>
+			            <configuration>
+			              <outputDirectory>${basedir}/target/classes</outputDirectory>
+			              <resources>          
+			                <resource>
+			                  <directory>${basedir}/src/main/resources</directory>
+			                   
+			                  <filtering>true</filtering>
+			                </resource>
+			              </resources>              
+			            </configuration>            
+			          </execution>
+			      </executions>
 			</plugin>
+			
+			 <plugin>
+			    <groupId>org.apache.maven.plugins</groupId>
+			    <artifactId>maven-surefire-plugin</artifactId>
+			    <version>2.20</version>
+			    <dependencies>
+			      <dependency>
+			        <groupId>org.apache.maven.surefire</groupId>
+			        <artifactId>surefire-junit47</artifactId>
+			        <version>2.20</version>
+			      </dependency>
+			    </dependencies>
+			  </plugin>
+			  
+			  <plugin>
+            	<groupId>com.spotify</groupId>
+            	<artifactId>docker-maven-plugin</artifactId>
+            	<version>0.2.3</version>
+            	<configuration>
+	                <imageName>${docker.image.prefix}/${project.artifactId}</imageName>
+                	<dockerDirectory>src/main/docker</dockerDirectory>
+                	<resources>
+                    	<resource>
+                        	<directory>${project.build.directory}</directory>
+                        	<include>${project.build.finalName}.jar</include>
+                    	</resource>
+                	</resources>
+            	</configuration>
+        	</plugin>
         </plugins>
     </build>
  
- 
+   <reporting>
+	    <plugins>
+	      <plugin>
+	        <groupId>org.apache.maven.plugins</groupId>
+	        <artifactId>maven-surefire-report-plugin</artifactId>
+	        <version>2.20</version>
+	      </plugin>
+	    </plugins>
+  	</reporting>
+  	
   <dependencies>
   	<dependency>
     	<groupId>org.jsoup</groupId>
@@ -79,14 +157,23 @@
         </exclusions>
         <scope>test</scope>
      </dependency>
-     
+
+<!--      
      <dependency>
     	<groupId>postgresql</groupId>
     	<artifactId>postgresql</artifactId>
     	<version>9.1-901-1.jdbc4</version>
     	<scope>runtime</scope>
 	</dependency>
+	-->
 	
+	<dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>42.1.1</version>
+    <scope>runtime</scope>
+</dependency>
+
 	<dependency>
 	    <groupId>commons-dbcp</groupId>
 	    <artifactId>commons-dbcp</artifactId>
@@ -136,6 +223,7 @@
   		</activation>
   		<properties>
   			<app.config>app-development</app.config>
+  			<test.skip>true</test.skip>
   		</properties>
   	</profile>
   	
@@ -143,6 +231,7 @@
   		<id>test</id>
   		<properties>
   			<app.config>app-test</app.config>
+  			<test.skip>false</test.skip>
   		</properties>
   		
   	</profile>
@@ -151,6 +240,7 @@
   		<id>production</id>
   		<properties>
   			<app.config>app-production</app.config>
+  			<test.skip>true</test.skip>
   		</properties>
   	</profile>
   	
